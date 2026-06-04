@@ -10,16 +10,38 @@ If the editor starts without the device attached, the window should stay open, b
 
 ## Installation
 
-### Option A: Debian, Ubuntu, Mint, Pop!_OS
+Download packages from the GitHub Releases page for this repository.
 
-1. Download the `.deb` file from the release.
-2. Open it with your system installer or run `sudo dpkg -i BOSS-ES8-Editor-*.deb`.
+### Option A: Debian, Ubuntu, Mint, Pop!_OS (`.deb`)
+
+1. Download `boss-es8-linux_<version>_amd64.deb` from the latest release.
+2. Install it:
+
+```bash
+sudo dpkg -i boss-es8-linux_<version>_amd64.deb
+sudo apt-get install -f -y
+```
+
+3. Launch from your app menu (`BOSS-ES8-Linux`) or run:
+
+```bash
+boss-es8-linux
+```
 
 ### Option B: AppImage
 
-1. Download the `.AppImage` file from the release.
-2. Make it executable with `chmod +x BOSS-ES8-Editor-*.AppImage`.
-3. Launch it directly.
+1. Download `BOSS-ES8-Linux-<version>.AppImage` from the latest release.
+2. Make it executable:
+
+```bash
+chmod +x BOSS-ES8-Linux-<version>.AppImage
+```
+
+3. Launch it:
+
+```bash
+./BOSS-ES8-Linux-<version>.AppImage
+```
 
 ## USB Permission Fix
 
