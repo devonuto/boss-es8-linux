@@ -20,9 +20,11 @@ function createWindow () {
     width: 1100,
     height: 800,
     title: 'BOSS ES-8 Editor (Community Linux Port)',
+    icon: path.join(__dirname, 'app-core', 'images', 'boss-es8-editor.png'),
     webPreferences: {
       nodeIntegration: false,
-      contextIsolation: true
+      contextIsolation: true,
+      webSecurity: false
     }
   });
 
@@ -35,5 +37,6 @@ function createWindow () {
 
 app.commandLine.appendSwitch('disable-gpu-sandbox');
 app.commandLine.appendSwitch('no-sandbox');
+app.commandLine.appendSwitch('disable-dev-shm-usage');
 
 app.whenReady().then(createWindow);

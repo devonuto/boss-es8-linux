@@ -15,6 +15,7 @@
   "build": {
     "appId": "com.boss.es8editor",
     "productName": "BOSS-ES8-Linux",
+    "icon": "app-core/images/boss-es8-editor.png",
     "linux": {
       "target": ["AppImage", "deb"],
       "category": "AudioVideo",
