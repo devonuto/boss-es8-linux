@@ -1,0 +1,93 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-select-box-style">
+    <p>selected option</p><div></div>
+    <div id="a-box" class="item-select-box-style-popup" style="display:none;">
+      <a>option 1</a>
+      <a>option 2</a>
+      ...
+    </div>
+  </div>
+*/
+
+.item-select-box-style {
+  position: absolute;
+  clear: both;
+  overflow: hidden;
+  outline: none;
+
+  margin: 0;
+  padding: 0;
+
+  text-align: center;
+  background-color: #333;
+
+  color: #fff;
+/*  background-color: #eee; */
+  border: 1px solid #888;
+  /*border-radius: 8px;*/
+  border-radius: 4px;
+  display: table;
+}
+.item-select-box-style p {
+  display: table-cell;
+  vertical-align: middle;
+  cursor: pointer;
+  padding-left: 4px;
+  padding-right: 24px;
+}
+.item-select-box-style p:after {
+  content: "";
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  margin-top: -4px;
+  /*border: 8px solid transparent;*/
+  border: 6px solid transparent;
+  border-top-color: #bbb;
+}
+.item-select-box-style:hover {
+  background-color: #88e;
+}
+
+.item-select-box-style-popup {
+  position: fixed;
+  overflow: auto;
+  outline: none;
+  -webkit-overflow-scrolling: touch;
+
+  margin: 0;
+  padding: 0;
+
+  background-color: #303030;
+  border: 1px solid #888;
+
+  max-height: 150px;
+}
+.item-select-box-style-popup a {
+  display: block;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  color: #eee;
+  border-top: 1px solid #888;
+
+          user-drag: none; 
+     -moz-user-drag: none;
+  -webkit-user-drag: none;
+}
+.item-select-box-style-popup a:hover {
+  background-color: #88e;
+}
+.item-select-box-style-popup a:active {
+  background-color: #e88;
+}
+.item-select-box-style-popup a[checked] {
+  color: white;
+  background-color: #5b8495;
+}
+.item-select-box-style-popup a[sel] {
+  background-color: #e88;
+}

@@ -1,0 +1,60 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-group-button-style-vis">
+    <input type="radio" id="a-0" name="a" value="0" >
+    <label for="a-0" style="background-image:url(img1.png)">group 1</label>
+    <input type="radio" id="a-1" name="a" value="1" >
+    <label for="a-1" style="background-image:url(img2.png)">group 2</label>
+    ...
+  </div>
+*/
+
+.item-group-button-style-vis {
+  position: absolute;
+  clear: both;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+.item-group-button-style-vis input {
+  display: none;
+}
+.item-group-button-style-vis label {
+  float: left;
+  margin: 0;
+  padding: 0;
+
+  cursor: pointer;
+  text-align: center;
+  font-size: 10pt;
+  color: #fff;
+/*  background-color: #eee; */
+/*  background-color: #000; */
+  background-color: #484848; 
+  Background-repeat: no-repeat;
+  background-position: center center;
+
+  border: 1px solid #888;
+  border-right: 0;
+}
+.item-group-button-style-vis label:first-of-type {
+  /*border-radius: 10px 0 0 10px;*/
+  border-radius: 4px 0 0 4px;
+}
+.item-group-button-style-vis label:last-of-type {
+  border-right: 1px solid #888;
+  /*border-radius: 0 10px 10px 0;*/
+  border-radius: 0 4px 4px 0;
+}
+.item-group-button-style-vis label:hover {
+  background-color: #88e;
+}
+
+.item-group-button-style-vis input[type="radio"]:hover + label {
+  background-color: #88e;
+}
+.item-group-button-style-vis input[type="radio"]:checked + label {
+/*  background-color: #e88;*/
+  background-color: #5b8495;
+}

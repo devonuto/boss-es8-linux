@@ -1,0 +1,87 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-spinner-style">
+    <input type="text" />
+    <div class="up-arrow"></div>
+    <div class="down-arrow"></div>
+  </div>
+*/
+
+.item-spinner-style {
+  position: absolute;
+  clear: both;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+
+  text-align: right;
+
+/*  color: #444;*/
+  color: #fff;
+
+/*  background-color: #eee; */
+  border: 2px solid #888;
+  /*border-radius: 8px;*/
+  border-radius: 4px;
+}
+.item-spinner-style input[type="text"] {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding-right: 24px;
+  cursor: pointer;
+
+  color: inherit;
+  font: inherit;
+  text-align: inherit;
+  background: inherit;
+  border: none;
+
+          user-select: text;
+     -moz-user-select: text;
+  -webkit-user-select: text;
+}
+.item-spinner-style .up-arrow {
+  position: absolute;
+  top:0; right: 0;
+  width: 20px;
+  height: 50%;
+  background: inherit;
+  border-left: 2px solid #bbb;
+}
+.item-spinner-style .down-arrow {
+  position: absolute;
+  right: 0; bottom:0;
+  width: 20px;
+  height: 50%;
+  background: inherit;
+
+  border-top:2px solid #888;
+  border-left: 2px solid #bbb;
+}
+.item-spinner-style .item-spinner-style input[type="text"]:focus {
+  background-color: #e88;
+}
+.item-spinner-style .up-arrow:hover,
+.item-spinner-style .down-arrow:hover {
+  background-color: #88e;
+}
+.item-spinner-style .up-arrow:before {
+  content: "";
+  position: absolute;
+  cursor: pointer;
+  right: 3px;
+  bottom: 3px;
+  border: 6px solid transparent;
+  border-bottom-color: #bbb;
+}
+.item-spinner-style .down-arrow:after {
+  content: "";
+  position: absolute;
+  cursor: pointer;
+  right: 3px;
+  top: 3px;
+  border: 6px solid transparent;
+  border-top-color: #bbb;
+}

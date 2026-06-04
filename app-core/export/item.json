@@ -1,0 +1,5005 @@
+{
+	"fMAIN": {
+		"id": "fMAIN"
+	},
+	"fTopButton": {
+		"id": "fTopButton"
+	},
+	"fAllContents": {
+		"id": "fAllContents"
+	},
+	"fMenu": {
+		"id": "fMenu"
+	},
+	"fList": {
+		"id": "fList"
+	},
+	"fTop": {
+		"id": "fTop"
+	},
+	"Title": {
+		"id": "Title",
+		"popup": "dialog_about"
+	},
+	"bPull": {
+		"id": "bPull",
+		"popup": "dialog_pull"
+	},
+	"lFunctionPatch": {
+		"id": "lFunctionPatch"
+	},
+	"lFunctionPlayOption": {
+		"id": "lFunctionPlayOption"
+	},
+	"lFunctionPreference": {
+		"id": "lFunctionPreference"
+	},
+	"lFunctionMidiOthers": {
+		"id": "lFunctionMidiOthers"
+	},
+	"lFunctionPcMap": {
+		"id": "lFunctionPcMap"
+	},
+	"lFunctionLibrarian": {
+		"id": "lFunctionLibrarian"
+	},
+	"lFunctionOption": {
+		"id": "lFunctionOption"
+	},
+	"ID_PATCH_INPUT_SELECT": {
+		"id": "ID_PATCH_INPUT_SELECT",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_INPUT_BUFFER": {
+		"id": "ID_PATCH_INPUT_BUFFER",
+		"init": "0",
+		"trig": true
+	},
+	"lInput": {
+		"id": "lInput"
+	},
+	"ID_PATCH_OUTPUT_SELECT": {
+		"id": "ID_PATCH_OUTPUT_SELECT",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_OUTPUT_BUFFER": {
+		"id": "ID_PATCH_OUTPUT_BUFFER",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_OUTPUT_GAIN": {
+		"id": "ID_PATCH_OUTPUT_GAIN",
+		"init": "0",
+		"trig": true
+	},
+	"lOutput": {
+		"id": "lOutput"
+	},
+	"fPatchCtlExp": {
+		"id": "fPatchCtlExp"
+	},
+	"fPatchCtlCtl": {
+		"id": "fPatchCtlCtl"
+	},
+	"lPatchCtlCtl1": {
+		"id": "lPatchCtlCtl1"
+	},
+	"lPatchCtlCtl2": {
+		"id": "lPatchCtlCtl2"
+	},
+	"lPatchCtlCtl3": {
+		"id": "lPatchCtlCtl3"
+	},
+	"lPatchCtlCtl4": {
+		"id": "lPatchCtlCtl4"
+	},
+	"lPatchCtlCtl5": {
+		"id": "lPatchCtlCtl5"
+	},
+	"lPatchCtlCtl6": {
+		"id": "lPatchCtlCtl6"
+	},
+	"ID_PATCH_CTL1": {
+		"id": "ID_PATCH_CTL1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL2": {
+		"id": "ID_PATCH_CTL2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL3": {
+		"id": "ID_PATCH_CTL3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL5": {
+		"id": "ID_PATCH_CTL5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL4": {
+		"id": "ID_PATCH_CTL4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL6": {
+		"id": "ID_PATCH_CTL6",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchCtlExp1": {
+		"id": "lPatchCtlExp1"
+	},
+	"lPatchCtlExp2": {
+		"id": "lPatchCtlExp2"
+	},
+	"ID_PATCH_EXP1": {
+		"id": "ID_PATCH_EXP1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_EXP2": {
+		"id": "ID_PATCH_EXP2",
+		"init": "0",
+		"trig": true
+	},
+	"fPatchCtlMixer": {
+		"id": "fPatchCtlMixer"
+	},
+	"ID_PATCH_MIXER_GAIN1": {
+		"id": "ID_PATCH_MIXER_GAIN1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIXER_GAIN2": {
+		"id": "ID_PATCH_MIXER_GAIN2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIXER_MODE": {
+		"id": "ID_PATCH_MIXER_MODE",
+		"init": "0",
+		"trig": true
+	},
+	"id15a1b5b767e37": {
+		"id": "id15a1b5b767e37"
+	},
+	"lPatchCtlMixerMixer1": {
+		"id": "lPatchCtlMixerMixer1"
+	},
+	"id15a1b65460a223": {
+		"id": "id15a1b65460a223"
+	},
+	"fCtlExpUpperMemoryManual": {
+		"id": "fCtlExpUpperMemoryManual"
+	},
+	"fCtlExpUpperMute": {
+		"id": "fCtlExpUpperMute"
+	},
+	"fCtlExpUpperBankD": {
+		"id": "fCtlExpUpperBankD"
+	},
+	"fCtlExpUpperBankU": {
+		"id": "fCtlExpUpperBankU"
+	},
+	"fCtlExpUpperNum7": {
+		"id": "fCtlExpUpperNum7"
+	},
+	"fCtlExpUpperNum8": {
+		"id": "fCtlExpUpperNum8"
+	},
+	"lCtlExpUpperTitle1": {
+		"id": "lCtlExpUpperTitle1"
+	},
+	"lCtlExpUpperTitle2": {
+		"id": "lCtlExpUpperTitle2"
+	},
+	"lCtlExpUpperTitle3": {
+		"id": "lCtlExpUpperTitle3"
+	},
+	"fCtlExpLowerNum6": {
+		"id": "fCtlExpLowerNum6"
+	},
+	"fCtlExpLowerNum5": {
+		"id": "fCtlExpLowerNum5"
+	},
+	"fCtlExpLowerNum4": {
+		"id": "fCtlExpLowerNum4"
+	},
+	"fCtlExpLowerNum3": {
+		"id": "fCtlExpLowerNum3"
+	},
+	"fCtlExpLowerNum2": {
+		"id": "fCtlExpLowerNum2"
+	},
+	"fCtlExpLowerNum1": {
+		"id": "fCtlExpLowerNum1"
+	},
+	"lCtlExpLowerTitle1": {
+		"id": "lCtlExpLowerTitle1"
+	},
+	"lCtlExpLowerTitle2": {
+		"id": "lCtlExpLowerTitle2"
+	},
+	"lCtlExpLowerTitle3": {
+		"id": "lCtlExpLowerTitle3"
+	},
+	"fCtlExpExp2": {
+		"id": "fCtlExpExp2"
+	},
+	"fCtlExpExp1": {
+		"id": "fCtlExpExp1"
+	},
+	"fCtlExpCtl4": {
+		"id": "fCtlExpCtl4"
+	},
+	"fCtlExpCtl3": {
+		"id": "fCtlExpCtl3"
+	},
+	"fCtlExpCtl2": {
+		"id": "fCtlExpCtl2"
+	},
+	"fCtlExpCtl1": {
+		"id": "fCtlExpCtl1"
+	},
+	"lCtlExpTitle1": {
+		"id": "lCtlExpTitle1"
+	},
+	"lCtlExpTitle2": {
+		"id": "lCtlExpTitle2"
+	},
+	"lCtlExpTitle3": {
+		"id": "lCtlExpTitle3"
+	},
+	"fPatchContents": {
+		"id": "fPatchContents"
+	},
+	"gbPatch": {
+		"id": "gbPatch",
+		"init": "0",
+		"frame": "fPatchContents"
+	},
+	"fPlayOption": {
+		"id": "fPlayOption"
+	},
+	"fPreference1": {
+		"id": "fPreference1"
+	},
+	"fPreference2": {
+		"id": "fPreference2"
+	},
+	"fMidiSetting1": {
+		"id": "fMidiSetting1"
+	},
+	"fOthers": {
+		"id": "fOthers"
+	},
+	"fPcMapSelector": {
+		"id": "fPcMapSelector"
+	},
+	"fPcMap1": {
+		"id": "fPcMap1"
+	},
+	"gbPcMap": {
+		"id": "gbPcMap",
+		"init": "0",
+		"trig": true
+	},
+	"fCtlExpUpper": {
+		"id": "fCtlExpUpper"
+	},
+	"fCtlExpLower": {
+		"id": "fCtlExpLower"
+	},
+	"fCtlExp": {
+		"id": "fCtlExp"
+	},
+	"fPatchMidi1": {
+		"id": "fPatchMidi1"
+	},
+	"fPatchMidi2": {
+		"id": "fPatchMidi2"
+	},
+	"fPatchMidi3": {
+		"id": "fPatchMidi3"
+	},
+	"fPatchMidi4": {
+		"id": "fPatchMidi4"
+	},
+	"fPatchMidi5": {
+		"id": "fPatchMidi5"
+	},
+	"fPatchMidi6": {
+		"id": "fPatchMidi6"
+	},
+	"fPatchMidi7": {
+		"id": "fPatchMidi7"
+	},
+	"fPatchMidi8": {
+		"id": "fPatchMidi8"
+	},
+	"fPatchAssign1": {
+		"id": "fPatchAssign1"
+	},
+	"fPatchAssign2": {
+		"id": "fPatchAssign2"
+	},
+	"fPatchAssign3": {
+		"id": "fPatchAssign3"
+	},
+	"fPatchAssign4": {
+		"id": "fPatchAssign4"
+	},
+	"fPatchAssign5": {
+		"id": "fPatchAssign5"
+	},
+	"fPatchAssign6": {
+		"id": "fPatchAssign6"
+	},
+	"fPatchAssign7": {
+		"id": "fPatchAssign7"
+	},
+	"fPatchAssign8": {
+		"id": "fPatchAssign8"
+	},
+	"fPatchAssign9": {
+		"id": "fPatchAssign9"
+	},
+	"fPatchAssign10": {
+		"id": "fPatchAssign10"
+	},
+	"fPatchAssign11": {
+		"id": "fPatchAssign11"
+	},
+	"fPatchAssign12": {
+		"id": "fPatchAssign12"
+	},
+	"ID_PATCH_MIDI_TX_CH-0": {
+		"id": "ID_PATCH_MIDI_TX_CH-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-0": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-0": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-0": {
+		"id": "ID_PATCH_MIDI_PC-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-0": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-0": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-0": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-0": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-0",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi1Lsb": {
+		"id": "lPatchMidi1Lsb"
+	},
+	"lPatchMidi1Msb": {
+		"id": "lPatchMidi1Msb"
+	},
+	"lPatchMidi1Pc": {
+		"id": "lPatchMidi1Pc"
+	},
+	"lPatchMidi1Ctl1Cc": {
+		"id": "lPatchMidi1Ctl1Cc"
+	},
+	"lPatchMidi1Ctl1Val": {
+		"id": "lPatchMidi1Ctl1Val"
+	},
+	"lPatchMidi1Ctl2Cc": {
+		"id": "lPatchMidi1Ctl2Cc"
+	},
+	"lPatchMidi1Ctl2Val": {
+		"id": "lPatchMidi1Ctl2Val"
+	},
+	"lPatchMidi1Ctl1": {
+		"id": "lPatchMidi1Ctl1"
+	},
+	"lPatchMidi1": {
+		"id": "lPatchMidi1"
+	},
+	"lPatchMidi1Ch": {
+		"id": "lPatchMidi1Ch"
+	},
+	"lPatchMidi1Ctl2": {
+		"id": "lPatchMidi1Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-0": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-0",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi1Transmit": {
+		"id": "lPatchMidi1Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-1": {
+		"id": "ID_PATCH_MIDI_TX_CH-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-1": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-1": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-1": {
+		"id": "ID_PATCH_MIDI_PC-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-1": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-1": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-1": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-1": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-1",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi2Lsb": {
+		"id": "lPatchMidi2Lsb"
+	},
+	"lPatchMidi2Msb": {
+		"id": "lPatchMidi2Msb"
+	},
+	"lPatchMidi2Pc": {
+		"id": "lPatchMidi2Pc"
+	},
+	"lPatchMidi2Ctl1Cc": {
+		"id": "lPatchMidi2Ctl1Cc"
+	},
+	"lPatchMidi2Ctl1Val": {
+		"id": "lPatchMidi2Ctl1Val"
+	},
+	"lPatchMidi2Ctl2Cc": {
+		"id": "lPatchMidi2Ctl2Cc"
+	},
+	"lPatchMidi2Ctl2Val": {
+		"id": "lPatchMidi2Ctl2Val"
+	},
+	"lPatchMidi2Ctl1": {
+		"id": "lPatchMidi2Ctl1"
+	},
+	"lPatchMidi2": {
+		"id": "lPatchMidi2"
+	},
+	"lPatchMidi2Ch": {
+		"id": "lPatchMidi2Ch"
+	},
+	"lPatchMidi2Ctl2": {
+		"id": "lPatchMidi2Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-1": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-1",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi2Transmit": {
+		"id": "lPatchMidi2Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-2": {
+		"id": "ID_PATCH_MIDI_TX_CH-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-2": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-2": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-2": {
+		"id": "ID_PATCH_MIDI_PC-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-2": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-2": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-2": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-2": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-2",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi3Lsb": {
+		"id": "lPatchMidi3Lsb"
+	},
+	"lPatchMidi3Msb": {
+		"id": "lPatchMidi3Msb"
+	},
+	"lPatchMidi3Pc": {
+		"id": "lPatchMidi3Pc"
+	},
+	"lPatchMidi3Ctl1Cc": {
+		"id": "lPatchMidi3Ctl1Cc"
+	},
+	"lPatchMidi3Ctl1Val": {
+		"id": "lPatchMidi3Ctl1Val"
+	},
+	"lPatchMidi3Ctl2Cc": {
+		"id": "lPatchMidi3Ctl2Cc"
+	},
+	"lPatchMidi3Ctl2Val": {
+		"id": "lPatchMidi3Ctl2Val"
+	},
+	"lPatchMidi3Ctl1": {
+		"id": "lPatchMidi3Ctl1"
+	},
+	"lPatchMidi3": {
+		"id": "lPatchMidi3"
+	},
+	"lPatchMidi3Ch": {
+		"id": "lPatchMidi3Ch"
+	},
+	"lPatchMidi3Ctl2": {
+		"id": "lPatchMidi3Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-2": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-2",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi3Transmit": {
+		"id": "lPatchMidi3Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-3": {
+		"id": "ID_PATCH_MIDI_TX_CH-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-3": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-3": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-3": {
+		"id": "ID_PATCH_MIDI_PC-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-3": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-3": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-3": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-3": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-3",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi4Lsb": {
+		"id": "lPatchMidi4Lsb"
+	},
+	"lPatchMidi4Msb": {
+		"id": "lPatchMidi4Msb"
+	},
+	"lPatchMidi4Pc": {
+		"id": "lPatchMidi4Pc"
+	},
+	"lPatchMidi4Ctl1Cc": {
+		"id": "lPatchMidi4Ctl1Cc"
+	},
+	"lPatchMidi4Ctl1Val": {
+		"id": "lPatchMidi4Ctl1Val"
+	},
+	"lPatchMidi4Ctl2Cc": {
+		"id": "lPatchMidi4Ctl2Cc"
+	},
+	"lPatchMidi4Ctl2Val": {
+		"id": "lPatchMidi4Ctl2Val"
+	},
+	"lPatchMidi4Ctl1": {
+		"id": "lPatchMidi4Ctl1"
+	},
+	"lPatchMidi4": {
+		"id": "lPatchMidi4"
+	},
+	"lPatchMidi4Ch": {
+		"id": "lPatchMidi4Ch"
+	},
+	"lPatchMidi4Ctl2": {
+		"id": "lPatchMidi4Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-3": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-3",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi4Transmit": {
+		"id": "lPatchMidi4Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-4": {
+		"id": "ID_PATCH_MIDI_TX_CH-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-4": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-4": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-4": {
+		"id": "ID_PATCH_MIDI_PC-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-4": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-4": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-4": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-4": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-4",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi5Lsb": {
+		"id": "lPatchMidi5Lsb"
+	},
+	"lPatchMidi5Msb": {
+		"id": "lPatchMidi5Msb"
+	},
+	"lPatchMidi5Pc": {
+		"id": "lPatchMidi5Pc"
+	},
+	"lPatchMidi5Ctl1Cc": {
+		"id": "lPatchMidi5Ctl1Cc"
+	},
+	"lPatchMidi5Ctl1Val": {
+		"id": "lPatchMidi5Ctl1Val"
+	},
+	"lPatchMidi5Ctl2Cc": {
+		"id": "lPatchMidi5Ctl2Cc"
+	},
+	"lPatchMidi5Ctl2Val": {
+		"id": "lPatchMidi5Ctl2Val"
+	},
+	"lPatchMidi5Ctl1": {
+		"id": "lPatchMidi5Ctl1"
+	},
+	"lPatchMidi5": {
+		"id": "lPatchMidi5"
+	},
+	"lPatchMidi5Ch": {
+		"id": "lPatchMidi5Ch"
+	},
+	"lPatchMidi5Ctl2": {
+		"id": "lPatchMidi5Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-4": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-4",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi5Transmit": {
+		"id": "lPatchMidi5Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-5": {
+		"id": "ID_PATCH_MIDI_TX_CH-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-5": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-5": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-5": {
+		"id": "ID_PATCH_MIDI_PC-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-5": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-5": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-5": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-5": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-5",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi6Lsb": {
+		"id": "lPatchMidi6Lsb"
+	},
+	"lPatchMidi6Msb": {
+		"id": "lPatchMidi6Msb"
+	},
+	"lPatchMidi6Pc": {
+		"id": "lPatchMidi6Pc"
+	},
+	"lPatchMidi6Ctl1Cc": {
+		"id": "lPatchMidi6Ctl1Cc"
+	},
+	"lPatchMidi6Ctl1Val": {
+		"id": "lPatchMidi6Ctl1Val"
+	},
+	"lPatchMidi6Ctl2Cc": {
+		"id": "lPatchMidi6Ctl2Cc"
+	},
+	"lPatchMidi6Ctl2Val": {
+		"id": "lPatchMidi6Ctl2Val"
+	},
+	"lPatchMidi6Ctl1": {
+		"id": "lPatchMidi6Ctl1"
+	},
+	"lPatchMidi6": {
+		"id": "lPatchMidi6"
+	},
+	"lPatchMidi6Ch": {
+		"id": "lPatchMidi6Ch"
+	},
+	"lPatchMidi6Ctl2": {
+		"id": "lPatchMidi6Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-5": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-5",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi6Transmit": {
+		"id": "lPatchMidi6Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-6": {
+		"id": "ID_PATCH_MIDI_TX_CH-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-6": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-6": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-6": {
+		"id": "ID_PATCH_MIDI_PC-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-6": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-6": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-6": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-6": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-6",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi7Lsb": {
+		"id": "lPatchMidi7Lsb"
+	},
+	"lPatchMidi7Msb": {
+		"id": "lPatchMidi7Msb"
+	},
+	"lPatchMidi7Pc": {
+		"id": "lPatchMidi7Pc"
+	},
+	"lPatchMidi7Ctl1Cc": {
+		"id": "lPatchMidi7Ctl1Cc"
+	},
+	"lPatchMidi7Ctl1Val": {
+		"id": "lPatchMidi7Ctl1Val"
+	},
+	"lPatchMidi7Ctl2Cc": {
+		"id": "lPatchMidi7Ctl2Cc"
+	},
+	"lPatchMidi7Ctl2Val": {
+		"id": "lPatchMidi7Ctl2Val"
+	},
+	"lPatchMidi7Ctl1": {
+		"id": "lPatchMidi7Ctl1"
+	},
+	"lPatchMidi7": {
+		"id": "lPatchMidi7"
+	},
+	"lPatchMidi7Ch": {
+		"id": "lPatchMidi7Ch"
+	},
+	"lPatchMidi7Ctl2": {
+		"id": "lPatchMidi7Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-6": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-6",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi7Transmit": {
+		"id": "lPatchMidi7Transmit"
+	},
+	"ID_PATCH_MIDI_TX_CH-7": {
+		"id": "ID_PATCH_MIDI_TX_CH-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_LSB-7": {
+		"id": "ID_PATCH_MIDI_PC_BANK_LSB-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC_BANK_MSB-7": {
+		"id": "ID_PATCH_MIDI_PC_BANK_MSB-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_PC-7": {
+		"id": "ID_PATCH_MIDI_PC-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC-7": {
+		"id": "ID_PATCH_MIDI_CTL1_CC-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL1_CC_VAL-7": {
+		"id": "ID_PATCH_MIDI_CTL1_CC_VAL-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC-7": {
+		"id": "ID_PATCH_MIDI_CTL2_CC-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_MIDI_CTL2_CC_VAL-7": {
+		"id": "ID_PATCH_MIDI_CTL2_CC_VAL-7",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi8Lsb": {
+		"id": "lPatchMidi8Lsb"
+	},
+	"lPatchMidi8Msb": {
+		"id": "lPatchMidi8Msb"
+	},
+	"lPatchMidi8Pc": {
+		"id": "lPatchMidi8Pc"
+	},
+	"lPatchMidi8Ctl1Cc": {
+		"id": "lPatchMidi8Ctl1Cc"
+	},
+	"lPatchMidi8Ctl1Val": {
+		"id": "lPatchMidi8Ctl1Val"
+	},
+	"lPatchMidi8Ctl2Cc": {
+		"id": "lPatchMidi8Ctl2Cc"
+	},
+	"lPatchMidi8Ctl2Val": {
+		"id": "lPatchMidi8Ctl2Val"
+	},
+	"lPatchMidi8Ctl1": {
+		"id": "lPatchMidi8Ctl1"
+	},
+	"lPatchMidi8": {
+		"id": "lPatchMidi8"
+	},
+	"lPatchMidi8Ch": {
+		"id": "lPatchMidi8Ch"
+	},
+	"lPatchMidi8Ctl2": {
+		"id": "lPatchMidi8Ctl2"
+	},
+	"ID_PATCH_MIDI_TRANSMIT-7": {
+		"id": "ID_PATCH_MIDI_TRANSMIT-7",
+		"init": "0",
+		"trig": true
+	},
+	"lPatchMidi8Transmit": {
+		"id": "lPatchMidi8Transmit"
+	},
+	"fPlayOption4": {
+		"id": "fPlayOption4"
+	},
+	"fPlayOption1": {
+		"id": "fPlayOption1"
+	},
+	"fPlayOption2": {
+		"id": "fPlayOption2"
+	},
+	"fPlayOption3": {
+		"id": "fPlayOption3"
+	},
+	"ID_SYSTEM_PLAY_OPTION_BANK_CHANGE_MODE": {
+		"id": "ID_SYSTEM_PLAY_OPTION_BANK_CHANGE_MODE",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PLAY_OPTION_BANK_EXTENT_MIN": {
+		"id": "ID_SYSTEM_PLAY_OPTION_BANK_EXTENT_MIN",
+		"init": "0",
+		"trig": true,
+		"lower": "ID_SYSTEM_PLAY_OPTION_BANK_EXTENT_MAX"
+	},
+	"ID_SYSTEM_PLAY_OPTION_BANK_EXTENT_MAX": {
+		"id": "ID_SYSTEM_PLAY_OPTION_BANK_EXTENT_MAX",
+		"init": "0",
+		"trig": true,
+		"upper": "ID_SYSTEM_PLAY_OPTION_BANK_EXTENT_MIN"
+	},
+	"lPlayOptionBankChgMode": {
+		"id": "lPlayOptionBankChgMode"
+	},
+	"lPlayOptionBankExtent": {
+		"id": "lPlayOptionBankExtent"
+	},
+	"lPlayOptionMin": {
+		"id": "lPlayOptionMin"
+	},
+	"lPlayOptionMax": {
+		"id": "lPlayOptionMax"
+	},
+	"ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL1": {
+		"id": "ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL1",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionCtl1": {
+		"id": "lPlayOptionCtl1"
+	},
+	"ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL2": {
+		"id": "ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL2",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionCtl2": {
+		"id": "lPlayOptionCtl2"
+	},
+	"ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL3": {
+		"id": "ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL3",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionCtl3": {
+		"id": "lPlayOptionCtl3"
+	},
+	"ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL4": {
+		"id": "ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL4",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionCtl4": {
+		"id": "lPlayOptionCtl4"
+	},
+	"ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL5": {
+		"id": "ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL5",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionCtl5": {
+		"id": "lPlayOptionCtl5"
+	},
+	"ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL6": {
+		"id": "ID_SYSTEM_PLAY_OPTION_EXT_CTL_TYPE_CTL6",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionCtl6": {
+		"id": "lPlayOptionCtl6"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER1": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER1",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum1": {
+		"id": "lPlayOptionNum1"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER2": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER2",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum2": {
+		"id": "lPlayOptionNum2"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER3": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER3",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum3": {
+		"id": "lPlayOptionNum3"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER4": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER4",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum4": {
+		"id": "lPlayOptionNum4"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER5": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER5",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum5": {
+		"id": "lPlayOptionNum5"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER6": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER6",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum6": {
+		"id": "lPlayOptionNum6"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER7": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER7",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum7": {
+		"id": "lPlayOptionNum7"
+	},
+	"ID_SYSTEM_MANUAL_NUMBER8": {
+		"id": "ID_SYSTEM_MANUAL_NUMBER8",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionNum8": {
+		"id": "lPlayOptionNum8"
+	},
+	"lPlayOptionForManual": {
+		"id": "lPlayOptionForManual"
+	},
+	"ID_SYSTEM_PLAY_OPTION_SW_MODE": {
+		"id": "ID_SYSTEM_PLAY_OPTION_SW_MODE",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PLAY_OPTION_PATCH_CHANGE_TIME": {
+		"id": "ID_SYSTEM_PLAY_OPTION_PATCH_CHANGE_TIME",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_TEMPO_HOLD": {
+		"id": "ID_SYSTEM_TEMPO_HOLD",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_LINK": {
+		"id": "ID_SYSTEM_LINK",
+		"init": "0",
+		"trig": true
+	},
+	"lPlayOptionSwitchMode": {
+		"id": "lPlayOptionSwitchMode"
+	},
+	"lPlayOptionPatchChgTime": {
+		"id": "lPlayOptionPatchChgTime"
+	},
+	"lPlayOptionLink": {
+		"id": "lPlayOptionLink"
+	},
+	"lPlayOptionTempoHold": {
+		"id": "lPlayOptionTempoHold"
+	},
+	"ID_SYSTEM_PREFERENCE_INPUT_SELECT": {
+		"id": "ID_SYSTEM_PREFERENCE_INPUT_SELECT",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PREFERENCE_INPUT_BUFFER": {
+		"id": "ID_SYSTEM_PREFERENCE_INPUT_BUFFER",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PREFERENCE_OUTPUT_SELECT": {
+		"id": "ID_SYSTEM_PREFERENCE_OUTPUT_SELECT",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PREFERENCE_OUTPUT_BUFFER": {
+		"id": "ID_SYSTEM_PREFERENCE_OUTPUT_BUFFER",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PREFERENCE_LOOP7_RETURN_MODE": {
+		"id": "ID_SYSTEM_PREFERENCE_LOOP7_RETURN_MODE",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PREFERENCE_LOOP8_RETURN_MODE": {
+		"id": "ID_SYSTEM_PREFERENCE_LOOP8_RETURN_MODE",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_PREFERENCE_VOLUME_LOOP_LIFT": {
+		"id": "ID_SYSTEM_PREFERENCE_VOLUME_LOOP_LIFT",
+		"init": "0",
+		"trig": true
+	},
+	"lPreferenceInput": {
+		"id": "lPreferenceInput"
+	},
+	"lPreferenceOutput": {
+		"id": "lPreferenceOutput"
+	},
+	"lPreferenceLoop7Return": {
+		"id": "lPreferenceLoop7Return"
+	},
+	"lPreferenceLoop8Return": {
+		"id": "lPreferenceLoop8Return"
+	},
+	"lPreferenceVolLoopLift": {
+		"id": "lPreferenceVolLoopLift"
+	},
+	"lPreferenceInputSel": {
+		"id": "lPreferenceInputSel"
+	},
+	"lPreferenceInputBuf": {
+		"id": "lPreferenceInputBuf"
+	},
+	"lPreferenceOutputSel": {
+		"id": "lPreferenceOutputSel"
+	},
+	"lPreferenceOutputBuf": {
+		"id": "lPreferenceOutputBuf"
+	},
+	"lPreferenceMemoryManual": {
+		"id": "lPreferenceMemoryManual"
+	},
+	"lPreferenceMute": {
+		"id": "lPreferenceMute"
+	},
+	"lPreferenceBankD": {
+		"id": "lPreferenceBankD"
+	},
+	"lPreferenceBankU": {
+		"id": "lPreferenceBankU"
+	},
+	"lPreferenceNum8": {
+		"id": "lPreferenceNum8"
+	},
+	"lPreferenceNum7": {
+		"id": "lPreferenceNum7"
+	},
+	"lPreferenceNum6": {
+		"id": "lPreferenceNum6"
+	},
+	"lPreferenceNum5": {
+		"id": "lPreferenceNum5"
+	},
+	"lPreferenceNum4": {
+		"id": "lPreferenceNum4"
+	},
+	"lPreferenceNum3": {
+		"id": "lPreferenceNum3"
+	},
+	"lPreferenceNum2": {
+		"id": "lPreferenceNum2"
+	},
+	"lPreferenceNum1": {
+		"id": "lPreferenceNum1"
+	},
+	"ID_SYSTEM_CTL_SW-0": {
+		"id": "ID_SYSTEM_CTL_SW-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-1": {
+		"id": "ID_SYSTEM_CTL_SW-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-2": {
+		"id": "ID_SYSTEM_CTL_SW-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-3": {
+		"id": "ID_SYSTEM_CTL_SW-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-4": {
+		"id": "ID_SYSTEM_CTL_SW-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-5": {
+		"id": "ID_SYSTEM_CTL_SW-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-6": {
+		"id": "ID_SYSTEM_CTL_SW-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-7": {
+		"id": "ID_SYSTEM_CTL_SW-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-8": {
+		"id": "ID_SYSTEM_CTL_SW-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-9": {
+		"id": "ID_SYSTEM_CTL_SW-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-10": {
+		"id": "ID_SYSTEM_CTL_SW-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-11": {
+		"id": "ID_SYSTEM_CTL_SW-11",
+		"init": "0",
+		"trig": true
+	},
+	"lPreferenceCtlIn1": {
+		"id": "lPreferenceCtlIn1"
+	},
+	"lPreferenceCtlIn2": {
+		"id": "lPreferenceCtlIn2"
+	},
+	"lPreferenceCtlIn3": {
+		"id": "lPreferenceCtlIn3"
+	},
+	"lPreferenceCtlIn4": {
+		"id": "lPreferenceCtlIn4"
+	},
+	"ID_SYSTEM_CTL_SW-15": {
+		"id": "ID_SYSTEM_CTL_SW-15",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-12": {
+		"id": "ID_SYSTEM_CTL_SW-12",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-13": {
+		"id": "ID_SYSTEM_CTL_SW-13",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_SW-14": {
+		"id": "ID_SYSTEM_CTL_SW-14",
+		"init": "0",
+		"trig": true
+	},
+	"lPreferenceExpIn1": {
+		"id": "lPreferenceExpIn1"
+	},
+	"lPreferenceExpIn2": {
+		"id": "lPreferenceExpIn2"
+	},
+	"ID_SYSTEM_EXP_SW-0": {
+		"id": "ID_SYSTEM_EXP_SW-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_EXP_SW-1": {
+		"id": "ID_SYSTEM_EXP_SW-1",
+		"init": "0",
+		"trig": true
+	},
+	"lMidiSettingMidiOutMode": {
+		"id": "lMidiSettingMidiOutMode"
+	},
+	"lMidiSettingRxCh": {
+		"id": "lMidiSettingRxCh"
+	},
+	"lMidiSettingSync": {
+		"id": "lMidiSettingSync"
+	},
+	"lMidiSettingClockOut": {
+		"id": "lMidiSettingClockOut"
+	},
+	"ID_SYSTEM_MIDI_SETTING_MIDI_OUT_MODE": {
+		"id": "ID_SYSTEM_MIDI_SETTING_MIDI_OUT_MODE",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_MIDI_SETTING_RX_CH": {
+		"id": "ID_SYSTEM_MIDI_SETTING_RX_CH",
+		"init": "1",
+		"trig": true,
+		"stringer": "sMidiRxCh"
+	},
+	"ID_SYSTEM_MIDI_SETTING_SYNC_CLOCK": {
+		"id": "ID_SYSTEM_MIDI_SETTING_SYNC_CLOCK",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_MIDI_SETTING_CLOCK_OUT": {
+		"id": "ID_SYSTEM_MIDI_SETTING_CLOCK_OUT",
+		"init": "0",
+		"trig": true
+	},
+	"sMidiRxCh": {
+		"id": "sMidiRxCh"
+	},
+	"fPcMap": {
+		"id": "fPcMap"
+	},
+	"lOthersLcdContrast": {
+		"id": "lOthersLcdContrast"
+	},
+	"lOthersPolarity": {
+		"id": "lOthersPolarity"
+	},
+	"lOthersExp1": {
+		"id": "lOthersExp1"
+	},
+	"lOthersExp2": {
+		"id": "lOthersExp2"
+	},
+	"lOthersCtl1": {
+		"id": "lOthersCtl1"
+	},
+	"lOthersCtl2": {
+		"id": "lOthersCtl2"
+	},
+	"lOthersCtl3": {
+		"id": "lOthersCtl3"
+	},
+	"lOthersCtl4": {
+		"id": "lOthersCtl4"
+	},
+	"ID_SYSTEM_OTHERS_EXP1_POLARITY": {
+		"id": "ID_SYSTEM_OTHERS_EXP1_POLARITY",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_OTHERS_EXP2_POLARITY": {
+		"id": "ID_SYSTEM_OTHERS_EXP2_POLARITY",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_OTHERS_CTL1_POLARITY": {
+		"id": "ID_SYSTEM_OTHERS_CTL1_POLARITY",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_OTHERS_CTL2_POLARITY": {
+		"id": "ID_SYSTEM_OTHERS_CTL2_POLARITY",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_OTHERS_CTL3_POLARITY": {
+		"id": "ID_SYSTEM_OTHERS_CTL3_POLARITY",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_OTHERS_CTL4_POLARITY": {
+		"id": "ID_SYSTEM_OTHERS_CTL4_POLARITY",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_OTHERS_LCD_CONTRAST": {
+		"id": "ID_SYSTEM_OTHERS_LCD_CONTRAST",
+		"init": "4",
+		"trig": true,
+		"stringer": "sLcdContrast"
+	},
+	"sLcdContrast": {
+		"id": "sLcdContrast"
+	},
+	"fPcMap0_0": {
+		"id": "fPcMap0_0"
+	},
+	"fPcMap0_1": {
+		"id": "fPcMap0_1"
+	},
+	"fPcMap0_2": {
+		"id": "fPcMap0_2"
+	},
+	"fPcMap0_3": {
+		"id": "fPcMap0_3"
+	},
+	"fPcMap0_4": {
+		"id": "fPcMap0_4"
+	},
+	"fPcMap0_5": {
+		"id": "fPcMap0_5"
+	},
+	"fPcMap0_6": {
+		"id": "fPcMap0_6"
+	},
+	"fPcMap0_7": {
+		"id": "fPcMap0_7"
+	},
+	"labelPc000": {
+		"id": "labelPc000"
+	},
+	"boxPc000": {
+		"id": "boxPc000",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc001": {
+		"id": "labelPc001"
+	},
+	"boxPc001": {
+		"id": "boxPc001",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc002": {
+		"id": "labelPc002"
+	},
+	"boxPc002": {
+		"id": "boxPc002",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc003": {
+		"id": "labelPc003"
+	},
+	"boxPc003": {
+		"id": "boxPc003",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc004": {
+		"id": "labelPc004"
+	},
+	"boxPc004": {
+		"id": "boxPc004",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc005": {
+		"id": "labelPc005"
+	},
+	"boxPc005": {
+		"id": "boxPc005",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc006": {
+		"id": "labelPc006"
+	},
+	"boxPc006": {
+		"id": "boxPc006",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc007": {
+		"id": "labelPc007"
+	},
+	"boxPc007": {
+		"id": "boxPc007",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc008": {
+		"id": "labelPc008"
+	},
+	"boxPc008": {
+		"id": "boxPc008",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc009": {
+		"id": "labelPc009"
+	},
+	"boxPc009": {
+		"id": "boxPc009",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc00A": {
+		"id": "labelPc00A"
+	},
+	"boxPc00A": {
+		"id": "boxPc00A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc00B": {
+		"id": "labelPc00B"
+	},
+	"boxPc00B": {
+		"id": "boxPc00B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc00C": {
+		"id": "labelPc00C"
+	},
+	"boxPc00C": {
+		"id": "boxPc00C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc00D": {
+		"id": "labelPc00D"
+	},
+	"boxPc00D": {
+		"id": "boxPc00D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc00E": {
+		"id": "labelPc00E"
+	},
+	"boxPc00E": {
+		"id": "boxPc00E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc00F": {
+		"id": "labelPc00F"
+	},
+	"boxPc00F": {
+		"id": "boxPc00F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc010": {
+		"id": "labelPc010"
+	},
+	"boxPc010": {
+		"id": "boxPc010",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc011": {
+		"id": "labelPc011"
+	},
+	"boxPc011": {
+		"id": "boxPc011",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc012": {
+		"id": "labelPc012"
+	},
+	"boxPc012": {
+		"id": "boxPc012",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc013": {
+		"id": "labelPc013"
+	},
+	"boxPc013": {
+		"id": "boxPc013",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc014": {
+		"id": "labelPc014"
+	},
+	"boxPc014": {
+		"id": "boxPc014",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc015": {
+		"id": "labelPc015"
+	},
+	"boxPc015": {
+		"id": "boxPc015",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc016": {
+		"id": "labelPc016"
+	},
+	"boxPc016": {
+		"id": "boxPc016",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc017": {
+		"id": "labelPc017"
+	},
+	"boxPc017": {
+		"id": "boxPc017",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc018": {
+		"id": "labelPc018"
+	},
+	"boxPc018": {
+		"id": "boxPc018",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc019": {
+		"id": "labelPc019"
+	},
+	"boxPc019": {
+		"id": "boxPc019",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc01A": {
+		"id": "labelPc01A"
+	},
+	"boxPc01A": {
+		"id": "boxPc01A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc01B": {
+		"id": "labelPc01B"
+	},
+	"boxPc01B": {
+		"id": "boxPc01B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc01C": {
+		"id": "labelPc01C"
+	},
+	"boxPc01C": {
+		"id": "boxPc01C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc01D": {
+		"id": "labelPc01D"
+	},
+	"boxPc01D": {
+		"id": "boxPc01D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc01E": {
+		"id": "labelPc01E"
+	},
+	"boxPc01E": {
+		"id": "boxPc01E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc01F": {
+		"id": "labelPc01F"
+	},
+	"boxPc01F": {
+		"id": "boxPc01F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc020": {
+		"id": "labelPc020"
+	},
+	"boxPc020": {
+		"id": "boxPc020",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc021": {
+		"id": "labelPc021"
+	},
+	"boxPc021": {
+		"id": "boxPc021",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc022": {
+		"id": "labelPc022"
+	},
+	"boxPc022": {
+		"id": "boxPc022",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc023": {
+		"id": "labelPc023"
+	},
+	"boxPc023": {
+		"id": "boxPc023",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc024": {
+		"id": "labelPc024"
+	},
+	"boxPc024": {
+		"id": "boxPc024",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc025": {
+		"id": "labelPc025"
+	},
+	"boxPc025": {
+		"id": "boxPc025",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc026": {
+		"id": "labelPc026"
+	},
+	"boxPc026": {
+		"id": "boxPc026",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc027": {
+		"id": "labelPc027"
+	},
+	"boxPc027": {
+		"id": "boxPc027",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc028": {
+		"id": "labelPc028"
+	},
+	"boxPc028": {
+		"id": "boxPc028",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc029": {
+		"id": "labelPc029"
+	},
+	"boxPc029": {
+		"id": "boxPc029",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc02A": {
+		"id": "labelPc02A"
+	},
+	"boxPc02A": {
+		"id": "boxPc02A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc02B": {
+		"id": "labelPc02B"
+	},
+	"boxPc02B": {
+		"id": "boxPc02B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc02C": {
+		"id": "labelPc02C"
+	},
+	"boxPc02C": {
+		"id": "boxPc02C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc02D": {
+		"id": "labelPc02D"
+	},
+	"boxPc02D": {
+		"id": "boxPc02D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc02E": {
+		"id": "labelPc02E"
+	},
+	"boxPc02E": {
+		"id": "boxPc02E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc02F": {
+		"id": "labelPc02F"
+	},
+	"boxPc02F": {
+		"id": "boxPc02F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc030": {
+		"id": "labelPc030"
+	},
+	"boxPc030": {
+		"id": "boxPc030",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc031": {
+		"id": "labelPc031"
+	},
+	"boxPc031": {
+		"id": "boxPc031",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc032": {
+		"id": "labelPc032"
+	},
+	"boxPc032": {
+		"id": "boxPc032",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc033": {
+		"id": "labelPc033"
+	},
+	"boxPc033": {
+		"id": "boxPc033",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc034": {
+		"id": "labelPc034"
+	},
+	"boxPc034": {
+		"id": "boxPc034",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc035": {
+		"id": "labelPc035"
+	},
+	"boxPc035": {
+		"id": "boxPc035",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc036": {
+		"id": "labelPc036"
+	},
+	"boxPc036": {
+		"id": "boxPc036",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc037": {
+		"id": "labelPc037"
+	},
+	"boxPc037": {
+		"id": "boxPc037",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc038": {
+		"id": "labelPc038"
+	},
+	"boxPc038": {
+		"id": "boxPc038",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc039": {
+		"id": "labelPc039"
+	},
+	"boxPc039": {
+		"id": "boxPc039",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc03A": {
+		"id": "labelPc03A"
+	},
+	"boxPc03A": {
+		"id": "boxPc03A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc03B": {
+		"id": "labelPc03B"
+	},
+	"boxPc03B": {
+		"id": "boxPc03B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc03C": {
+		"id": "labelPc03C"
+	},
+	"boxPc03C": {
+		"id": "boxPc03C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc03D": {
+		"id": "labelPc03D"
+	},
+	"boxPc03D": {
+		"id": "boxPc03D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc03E": {
+		"id": "labelPc03E"
+	},
+	"boxPc03E": {
+		"id": "boxPc03E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc03F": {
+		"id": "labelPc03F"
+	},
+	"boxPc03F": {
+		"id": "boxPc03F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc040": {
+		"id": "labelPc040"
+	},
+	"boxPc040": {
+		"id": "boxPc040",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc041": {
+		"id": "labelPc041"
+	},
+	"boxPc041": {
+		"id": "boxPc041",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc042": {
+		"id": "labelPc042"
+	},
+	"boxPc042": {
+		"id": "boxPc042",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc043": {
+		"id": "labelPc043"
+	},
+	"boxPc043": {
+		"id": "boxPc043",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc044": {
+		"id": "labelPc044"
+	},
+	"boxPc044": {
+		"id": "boxPc044",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc045": {
+		"id": "labelPc045"
+	},
+	"boxPc045": {
+		"id": "boxPc045",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc046": {
+		"id": "labelPc046"
+	},
+	"boxPc046": {
+		"id": "boxPc046",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc047": {
+		"id": "labelPc047"
+	},
+	"boxPc047": {
+		"id": "boxPc047",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc048": {
+		"id": "labelPc048"
+	},
+	"boxPc048": {
+		"id": "boxPc048",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc049": {
+		"id": "labelPc049"
+	},
+	"boxPc049": {
+		"id": "boxPc049",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc04A": {
+		"id": "labelPc04A"
+	},
+	"boxPc04A": {
+		"id": "boxPc04A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc04B": {
+		"id": "labelPc04B"
+	},
+	"boxPc04B": {
+		"id": "boxPc04B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc04C": {
+		"id": "labelPc04C"
+	},
+	"boxPc04C": {
+		"id": "boxPc04C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc04D": {
+		"id": "labelPc04D"
+	},
+	"boxPc04D": {
+		"id": "boxPc04D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc04E": {
+		"id": "labelPc04E"
+	},
+	"boxPc04E": {
+		"id": "boxPc04E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc04F": {
+		"id": "labelPc04F"
+	},
+	"boxPc04F": {
+		"id": "boxPc04F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc050": {
+		"id": "labelPc050"
+	},
+	"boxPc050": {
+		"id": "boxPc050",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc051": {
+		"id": "labelPc051"
+	},
+	"boxPc051": {
+		"id": "boxPc051",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc052": {
+		"id": "labelPc052"
+	},
+	"boxPc052": {
+		"id": "boxPc052",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc053": {
+		"id": "labelPc053"
+	},
+	"boxPc053": {
+		"id": "boxPc053",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc054": {
+		"id": "labelPc054"
+	},
+	"boxPc054": {
+		"id": "boxPc054",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc055": {
+		"id": "labelPc055"
+	},
+	"boxPc055": {
+		"id": "boxPc055",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc056": {
+		"id": "labelPc056"
+	},
+	"boxPc056": {
+		"id": "boxPc056",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc057": {
+		"id": "labelPc057"
+	},
+	"boxPc057": {
+		"id": "boxPc057",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc058": {
+		"id": "labelPc058"
+	},
+	"boxPc058": {
+		"id": "boxPc058",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc059": {
+		"id": "labelPc059"
+	},
+	"boxPc059": {
+		"id": "boxPc059",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc05A": {
+		"id": "labelPc05A"
+	},
+	"boxPc05A": {
+		"id": "boxPc05A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc05B": {
+		"id": "labelPc05B"
+	},
+	"boxPc05B": {
+		"id": "boxPc05B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc05C": {
+		"id": "labelPc05C"
+	},
+	"boxPc05C": {
+		"id": "boxPc05C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc05D": {
+		"id": "labelPc05D"
+	},
+	"boxPc05D": {
+		"id": "boxPc05D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc05E": {
+		"id": "labelPc05E"
+	},
+	"boxPc05E": {
+		"id": "boxPc05E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc05F": {
+		"id": "labelPc05F"
+	},
+	"boxPc05F": {
+		"id": "boxPc05F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc060": {
+		"id": "labelPc060"
+	},
+	"boxPc060": {
+		"id": "boxPc060",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc061": {
+		"id": "labelPc061"
+	},
+	"boxPc061": {
+		"id": "boxPc061",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc062": {
+		"id": "labelPc062"
+	},
+	"boxPc062": {
+		"id": "boxPc062",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc063": {
+		"id": "labelPc063"
+	},
+	"boxPc063": {
+		"id": "boxPc063",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc064": {
+		"id": "labelPc064"
+	},
+	"boxPc064": {
+		"id": "boxPc064",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc065": {
+		"id": "labelPc065"
+	},
+	"boxPc065": {
+		"id": "boxPc065",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc066": {
+		"id": "labelPc066"
+	},
+	"boxPc066": {
+		"id": "boxPc066",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc067": {
+		"id": "labelPc067"
+	},
+	"boxPc067": {
+		"id": "boxPc067",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc068": {
+		"id": "labelPc068"
+	},
+	"boxPc068": {
+		"id": "boxPc068",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc069": {
+		"id": "labelPc069"
+	},
+	"boxPc069": {
+		"id": "boxPc069",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc06A": {
+		"id": "labelPc06A"
+	},
+	"boxPc06A": {
+		"id": "boxPc06A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc06B": {
+		"id": "labelPc06B"
+	},
+	"boxPc06B": {
+		"id": "boxPc06B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc06C": {
+		"id": "labelPc06C"
+	},
+	"boxPc06C": {
+		"id": "boxPc06C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc06D": {
+		"id": "labelPc06D"
+	},
+	"boxPc06D": {
+		"id": "boxPc06D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc06E": {
+		"id": "labelPc06E"
+	},
+	"boxPc06E": {
+		"id": "boxPc06E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc06F": {
+		"id": "labelPc06F"
+	},
+	"boxPc06F": {
+		"id": "boxPc06F",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc070": {
+		"id": "labelPc070"
+	},
+	"boxPc070": {
+		"id": "boxPc070",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc071": {
+		"id": "labelPc071"
+	},
+	"boxPc071": {
+		"id": "boxPc071",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc072": {
+		"id": "labelPc072"
+	},
+	"boxPc072": {
+		"id": "boxPc072",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc073": {
+		"id": "labelPc073"
+	},
+	"boxPc073": {
+		"id": "boxPc073",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc074": {
+		"id": "labelPc074"
+	},
+	"boxPc074": {
+		"id": "boxPc074",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc075": {
+		"id": "labelPc075"
+	},
+	"boxPc075": {
+		"id": "boxPc075",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc076": {
+		"id": "labelPc076"
+	},
+	"boxPc076": {
+		"id": "boxPc076",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc077": {
+		"id": "labelPc077"
+	},
+	"boxPc077": {
+		"id": "boxPc077",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc078": {
+		"id": "labelPc078"
+	},
+	"boxPc078": {
+		"id": "boxPc078",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc079": {
+		"id": "labelPc079"
+	},
+	"boxPc079": {
+		"id": "boxPc079",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc07A": {
+		"id": "labelPc07A"
+	},
+	"boxPc07A": {
+		"id": "boxPc07A",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc07B": {
+		"id": "labelPc07B"
+	},
+	"boxPc07B": {
+		"id": "boxPc07B",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc07C": {
+		"id": "labelPc07C"
+	},
+	"boxPc07C": {
+		"id": "boxPc07C",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc07D": {
+		"id": "labelPc07D"
+	},
+	"boxPc07D": {
+		"id": "boxPc07D",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc07E": {
+		"id": "labelPc07E"
+	},
+	"boxPc07E": {
+		"id": "boxPc07E",
+		"init": "0",
+		"trig": true
+	},
+	"labelPc07F": {
+		"id": "labelPc07F"
+	},
+	"boxPc07F": {
+		"id": "boxPc07F",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SW-0": {
+		"id": "ID_PATCH_ASSIGN_SW-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-0": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-0": {
+		"id": "ID_PATCH_ASSIGN_MODE-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-0": {
+		"id": "ID_PATCH_ASSIGN_TARGET-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-0": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-0": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-0": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-0": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-0": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-0": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-0": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-0": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-0": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-0": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-0": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-0": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-0",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin1": {
+		"id": "lAssignMin1"
+	},
+	"lAssignSrc1": {
+		"id": "lAssignSrc1"
+	},
+	"lAssignRateForm1": {
+		"id": "lAssignRateForm1"
+	},
+	"lAssignIntTrigCc1": {
+		"id": "lAssignIntTrigCc1"
+	},
+	"lAssignTrigTimCrv1": {
+		"id": "lAssignTrigTimCrv1"
+	},
+	"lAssignActL1": {
+		"id": "lAssignActL1"
+	},
+	"lAssignActH1": {
+		"id": "lAssignActH1"
+	},
+	"lAssignTarget1": {
+		"id": "lAssignTarget1"
+	},
+	"lAssignMod1": {
+		"id": "lAssignMod1"
+	},
+	"lAssignCcCh1": {
+		"id": "lAssignCcCh1"
+	},
+	"ID_PATCH_ASSIGN_SW-1": {
+		"id": "ID_PATCH_ASSIGN_SW-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-1": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-1": {
+		"id": "ID_PATCH_ASSIGN_MODE-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-1": {
+		"id": "ID_PATCH_ASSIGN_TARGET-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-1": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-1": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-1": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-1": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-1": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-1": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-1": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-1": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-1": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-1": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-1": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-1": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-1",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin2": {
+		"id": "lAssignMin2"
+	},
+	"lAssignSrc2": {
+		"id": "lAssignSrc2"
+	},
+	"lAssignRateForm2": {
+		"id": "lAssignRateForm2"
+	},
+	"lAssignIntTrigCc2": {
+		"id": "lAssignIntTrigCc2"
+	},
+	"lAssignTrigTimCrv2": {
+		"id": "lAssignTrigTimCrv2"
+	},
+	"lAssignActL2": {
+		"id": "lAssignActL2"
+	},
+	"lAssignActH2": {
+		"id": "lAssignActH2"
+	},
+	"lAssignTarget2": {
+		"id": "lAssignTarget2"
+	},
+	"lAssignMod2": {
+		"id": "lAssignMod2"
+	},
+	"lAssignCcCh2": {
+		"id": "lAssignCcCh2"
+	},
+	"ID_PATCH_ASSIGN_SW-2": {
+		"id": "ID_PATCH_ASSIGN_SW-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-2": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-2": {
+		"id": "ID_PATCH_ASSIGN_MODE-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-2": {
+		"id": "ID_PATCH_ASSIGN_TARGET-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-2": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-2": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-2": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-2": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-2": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-2": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-2": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-2": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-2": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-2": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-2": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-2": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-2",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin3": {
+		"id": "lAssignMin3"
+	},
+	"lAssignSrc3": {
+		"id": "lAssignSrc3"
+	},
+	"lAssignRateForm3": {
+		"id": "lAssignRateForm3"
+	},
+	"lAssignIntTrigCc3": {
+		"id": "lAssignIntTrigCc3"
+	},
+	"lAssignTrigTimCrv3": {
+		"id": "lAssignTrigTimCrv3"
+	},
+	"lAssignActL3": {
+		"id": "lAssignActL3"
+	},
+	"lAssignActH3": {
+		"id": "lAssignActH3"
+	},
+	"lAssignTarget3": {
+		"id": "lAssignTarget3"
+	},
+	"lAssignMod3": {
+		"id": "lAssignMod3"
+	},
+	"lAssignCcCh3": {
+		"id": "lAssignCcCh3"
+	},
+	"ID_PATCH_ASSIGN_SW-3": {
+		"id": "ID_PATCH_ASSIGN_SW-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-3": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-3": {
+		"id": "ID_PATCH_ASSIGN_MODE-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-3": {
+		"id": "ID_PATCH_ASSIGN_TARGET-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-3": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-3": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-3": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-3": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-3": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-3": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-3": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-3": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-3": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-3": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-3": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-3": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-3",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin4": {
+		"id": "lAssignMin4"
+	},
+	"lAssignSrc4": {
+		"id": "lAssignSrc4"
+	},
+	"lAssignRateForm4": {
+		"id": "lAssignRateForm4"
+	},
+	"lAssignIntTrigCc4": {
+		"id": "lAssignIntTrigCc4"
+	},
+	"lAssignTrigTimCrv4": {
+		"id": "lAssignTrigTimCrv4"
+	},
+	"lAssignActL4": {
+		"id": "lAssignActL4"
+	},
+	"lAssignActH4": {
+		"id": "lAssignActH4"
+	},
+	"lAssignTarget4": {
+		"id": "lAssignTarget4"
+	},
+	"lAssignMod4": {
+		"id": "lAssignMod4"
+	},
+	"lAssignCcCh4": {
+		"id": "lAssignCcCh4"
+	},
+	"ID_PATCH_ASSIGN_SW-4": {
+		"id": "ID_PATCH_ASSIGN_SW-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-4": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-4": {
+		"id": "ID_PATCH_ASSIGN_MODE-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-4": {
+		"id": "ID_PATCH_ASSIGN_TARGET-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-4": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-4": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-4": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-4": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-4": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-4": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-4": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-4": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-4": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-4": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-4": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-4": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-4",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin5": {
+		"id": "lAssignMin5"
+	},
+	"lAssignSrc5": {
+		"id": "lAssignSrc5"
+	},
+	"lAssignRateForm5": {
+		"id": "lAssignRateForm5"
+	},
+	"lAssignIntTrigCc5": {
+		"id": "lAssignIntTrigCc5"
+	},
+	"lAssignTrigTimCrv5": {
+		"id": "lAssignTrigTimCrv5"
+	},
+	"lAssignActL5": {
+		"id": "lAssignActL5"
+	},
+	"lAssignActH5": {
+		"id": "lAssignActH5"
+	},
+	"lAssignTarget5": {
+		"id": "lAssignTarget5"
+	},
+	"lAssignMod5": {
+		"id": "lAssignMod5"
+	},
+	"lAssignCcCh5": {
+		"id": "lAssignCcCh5"
+	},
+	"ID_PATCH_ASSIGN_SW-5": {
+		"id": "ID_PATCH_ASSIGN_SW-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-5": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-5": {
+		"id": "ID_PATCH_ASSIGN_MODE-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-5": {
+		"id": "ID_PATCH_ASSIGN_TARGET-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-5": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-5": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-5": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-5": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-5": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-5": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-5": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-5": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-5": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-5": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-5": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-5": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-5",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin6": {
+		"id": "lAssignMin6"
+	},
+	"lAssignSrc6": {
+		"id": "lAssignSrc6"
+	},
+	"lAssignRateForm6": {
+		"id": "lAssignRateForm6"
+	},
+	"lAssignIntTrigCc6": {
+		"id": "lAssignIntTrigCc6"
+	},
+	"lAssignTrigTimCrv6": {
+		"id": "lAssignTrigTimCrv6"
+	},
+	"lAssignActL6": {
+		"id": "lAssignActL6"
+	},
+	"lAssignActH6": {
+		"id": "lAssignActH6"
+	},
+	"lAssignTarget6": {
+		"id": "lAssignTarget6"
+	},
+	"lAssignMod6": {
+		"id": "lAssignMod6"
+	},
+	"lAssignCcCh6": {
+		"id": "lAssignCcCh6"
+	},
+	"ID_PATCH_ASSIGN_SW-6": {
+		"id": "ID_PATCH_ASSIGN_SW-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-6": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-6": {
+		"id": "ID_PATCH_ASSIGN_MODE-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-6": {
+		"id": "ID_PATCH_ASSIGN_TARGET-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-6": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-6": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-6": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-6": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-6": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-6": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-6": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-6": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-6": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-6": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-6": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-6": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-6",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin7": {
+		"id": "lAssignMin7"
+	},
+	"lAssignSrc7": {
+		"id": "lAssignSrc7"
+	},
+	"lAssignRateForm7": {
+		"id": "lAssignRateForm7"
+	},
+	"lAssignIntTrigCc7": {
+		"id": "lAssignIntTrigCc7"
+	},
+	"lAssignTrigTimCrv7": {
+		"id": "lAssignTrigTimCrv7"
+	},
+	"lAssignActL7": {
+		"id": "lAssignActL7"
+	},
+	"lAssignActH7": {
+		"id": "lAssignActH7"
+	},
+	"lAssignTarget7": {
+		"id": "lAssignTarget7"
+	},
+	"lAssignMod7": {
+		"id": "lAssignMod7"
+	},
+	"lAssignCcCh7": {
+		"id": "lAssignCcCh7"
+	},
+	"ID_PATCH_ASSIGN_SW-7": {
+		"id": "ID_PATCH_ASSIGN_SW-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-7": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-7": {
+		"id": "ID_PATCH_ASSIGN_MODE-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-7": {
+		"id": "ID_PATCH_ASSIGN_TARGET-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-7": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-7": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-7": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-7": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-7": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-7": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-7": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-7": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-7": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-7": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-7": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-7": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-7",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin8": {
+		"id": "lAssignMin8"
+	},
+	"lAssignSrc8": {
+		"id": "lAssignSrc8"
+	},
+	"lAssignRateForm8": {
+		"id": "lAssignRateForm8"
+	},
+	"lAssignIntTrigCc8": {
+		"id": "lAssignIntTrigCc8"
+	},
+	"lAssignTrigTimCrv8": {
+		"id": "lAssignTrigTimCrv8"
+	},
+	"lAssignActL8": {
+		"id": "lAssignActL8"
+	},
+	"lAssignActH8": {
+		"id": "lAssignActH8"
+	},
+	"lAssignTarget8": {
+		"id": "lAssignTarget8"
+	},
+	"lAssignMod8": {
+		"id": "lAssignMod8"
+	},
+	"lAssignCcCh8": {
+		"id": "lAssignCcCh8"
+	},
+	"ID_PATCH_ASSIGN_SW-8": {
+		"id": "ID_PATCH_ASSIGN_SW-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-8": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-8": {
+		"id": "ID_PATCH_ASSIGN_MODE-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-8": {
+		"id": "ID_PATCH_ASSIGN_TARGET-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-8": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-8": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-8": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-8": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-8": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-8": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-8": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-8": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-8": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-8": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-8": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-8": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-8",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin9": {
+		"id": "lAssignMin9"
+	},
+	"lAssignSrc9": {
+		"id": "lAssignSrc9"
+	},
+	"lAssignRateForm9": {
+		"id": "lAssignRateForm9"
+	},
+	"lAssignIntTrigCc9": {
+		"id": "lAssignIntTrigCc9"
+	},
+	"lAssignTrigTimCrv9": {
+		"id": "lAssignTrigTimCrv9"
+	},
+	"lAssignActL9": {
+		"id": "lAssignActL9"
+	},
+	"lAssignActH9": {
+		"id": "lAssignActH9"
+	},
+	"lAssignTarget9": {
+		"id": "lAssignTarget9"
+	},
+	"lAssignMod9": {
+		"id": "lAssignMod9"
+	},
+	"lAssignCcCh9": {
+		"id": "lAssignCcCh9"
+	},
+	"ID_PATCH_ASSIGN_SW-9": {
+		"id": "ID_PATCH_ASSIGN_SW-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-9": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-9": {
+		"id": "ID_PATCH_ASSIGN_MODE-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-9": {
+		"id": "ID_PATCH_ASSIGN_TARGET-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-9": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-9": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-9": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-9": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-9": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-9": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-9": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-9": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-9": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-9": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-9": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-9": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-9",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin10": {
+		"id": "lAssignMin10"
+	},
+	"lAssignSrc10": {
+		"id": "lAssignSrc10"
+	},
+	"lAssignRateForm10": {
+		"id": "lAssignRateForm10"
+	},
+	"lAssignIntTrigCc10": {
+		"id": "lAssignIntTrigCc10"
+	},
+	"lAssignTrigTimCrv10": {
+		"id": "lAssignTrigTimCrv10"
+	},
+	"lAssignActL10": {
+		"id": "lAssignActL10"
+	},
+	"lAssignActH10": {
+		"id": "lAssignActH10"
+	},
+	"lAssignTarget10": {
+		"id": "lAssignTarget10"
+	},
+	"lAssignMod10": {
+		"id": "lAssignMod10"
+	},
+	"lAssignCcCh10": {
+		"id": "lAssignCcCh10"
+	},
+	"ID_PATCH_ASSIGN_SW-10": {
+		"id": "ID_PATCH_ASSIGN_SW-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-10": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-10": {
+		"id": "ID_PATCH_ASSIGN_MODE-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-10": {
+		"id": "ID_PATCH_ASSIGN_TARGET-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-10": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-10": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-10": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-10": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-10": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-10": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-10": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-10": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-10": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-10": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-10": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-10": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-10",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin11": {
+		"id": "lAssignMin11"
+	},
+	"lAssignSrc11": {
+		"id": "lAssignSrc11"
+	},
+	"lAssignRateForm11": {
+		"id": "lAssignRateForm11"
+	},
+	"lAssignIntTrigCc11": {
+		"id": "lAssignIntTrigCc11"
+	},
+	"lAssignTrigTimCrv11": {
+		"id": "lAssignTrigTimCrv11"
+	},
+	"lAssignActL11": {
+		"id": "lAssignActL11"
+	},
+	"lAssignActH11": {
+		"id": "lAssignActH11"
+	},
+	"lAssignTarget11": {
+		"id": "lAssignTarget11"
+	},
+	"lAssignMod11": {
+		"id": "lAssignMod11"
+	},
+	"lAssignCcCh11": {
+		"id": "lAssignCcCh11"
+	},
+	"ID_PATCH_ASSIGN_SW-11": {
+		"id": "ID_PATCH_ASSIGN_SW-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_SOURCE-11": {
+		"id": "ID_PATCH_ASSIGN_SOURCE-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_MODE-11": {
+		"id": "ID_PATCH_ASSIGN_MODE-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET-11": {
+		"id": "ID_PATCH_ASSIGN_TARGET-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MIN-11": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MIN-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_MAX-11": {
+		"id": "ID_PATCH_ASSIGN_TARGET_MAX-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_LO-11": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_LO-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_ACT_RANGE_HI-11": {
+		"id": "ID_PATCH_ASSIGN_ACT_RANGE_HI-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-11": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TIME-11": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TIME-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_CURVE-11": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_CURVE-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-11": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_RATE-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-11": {
+		"id": "ID_PATCH_ASSIGN_WAVE_PEDAL_FORM-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_CH-11": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_CH-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_TARGET_CC_NO-11": {
+		"id": "ID_PATCH_ASSIGN_TARGET_CC_NO-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-11": {
+		"id": "ID_PATCH_ASSIGN_INT_PEDAL_TRIGGER_CC-11",
+		"init": "0",
+		"trig": true
+	},
+	"lAssignMin12": {
+		"id": "lAssignMin12"
+	},
+	"lAssignSrc12": {
+		"id": "lAssignSrc12"
+	},
+	"lAssignRateForm12": {
+		"id": "lAssignRateForm12"
+	},
+	"lAssignIntTrigCc12": {
+		"id": "lAssignIntTrigCc12"
+	},
+	"lAssignTrigTimCrv12": {
+		"id": "lAssignTrigTimCrv12"
+	},
+	"lAssignActL12": {
+		"id": "lAssignActL12"
+	},
+	"lAssignActH12": {
+		"id": "lAssignActH12"
+	},
+	"lAssignTarget12": {
+		"id": "lAssignTarget12"
+	},
+	"lAssignMod12": {
+		"id": "lAssignMod12"
+	},
+	"lAssignCcCh12": {
+		"id": "lAssignCcCh12"
+	},
+	"fListBank": {
+		"id": "fListBank"
+	},
+	"fListNum": {
+		"id": "fListNum"
+	},
+	"spinnerBank": {
+		"id": "spinnerBank",
+		"init": "0",
+		"trig": true
+	},
+	"lListBank": {
+		"id": "lListBank"
+	},
+	"bListNum1": {
+		"id": "bListNum1"
+	},
+	"bListNum2": {
+		"id": "bListNum2"
+	},
+	"bListNum3": {
+		"id": "bListNum3"
+	},
+	"bListNum4": {
+		"id": "bListNum4"
+	},
+	"bListNum5": {
+		"id": "bListNum5"
+	},
+	"bListNum6": {
+		"id": "bListNum6"
+	},
+	"bListNum7": {
+		"id": "bListNum7"
+	},
+	"bListNum8": {
+		"id": "bListNum8"
+	},
+	"sListNum1": {
+		"id": "sListNum1"
+	},
+	"sListNum2": {
+		"id": "sListNum2"
+	},
+	"sListNum3": {
+		"id": "sListNum3"
+	},
+	"sListNum4": {
+		"id": "sListNum4"
+	},
+	"sListNum5": {
+		"id": "sListNum5"
+	},
+	"sListNum6": {
+		"id": "sListNum6"
+	},
+	"sListNum7": {
+		"id": "sListNum7"
+	},
+	"sListNum8": {
+		"id": "sListNum8"
+	},
+	"lOptionMidiDevice": {
+		"id": "lOptionMidiDevice"
+	},
+	"lOptionIn": {
+		"id": "lOptionIn"
+	},
+	"lOptionOut": {
+		"id": "lOptionOut"
+	},
+	"midiSelectorIn": {
+		"id": "midiSelectorIn",
+		"init": "0",
+		"trig": true
+	},
+	"midiSelectorOut": {
+		"id": "midiSelectorOut",
+		"init": "0",
+		"trig": true
+	},
+	"bMidiDeviceConnect": {
+		"id": "bMidiDeviceConnect"
+	},
+	"lDialogAboutTitle": {
+		"id": "lDialogAboutTitle"
+	},
+	"bDialogAboutOk": {
+		"id": "bDialogAboutOk",
+		"popup": "--close"
+	},
+	"lDialogAboutVersion": {
+		"id": "lDialogAboutVersion"
+	},
+	"lDialogAboutCopyright": {
+		"id": "lDialogAboutCopyright"
+	},
+	"lDialogAboutInfo": {
+		"id": "lDialogAboutInfo"
+	},
+	"lDialogPushTitle": {
+		"id": "lDialogPushTitle"
+	},
+	"bDialogPushAll": {
+		"id": "bDialogPushAll",
+		"popup": "--close"
+	},
+	"bDialogPushCancel": {
+		"id": "bDialogPushCancel",
+		"popup": "--close"
+	},
+	"bDialogPushCurrent": {
+		"id": "bDialogPushCurrent",
+		"popup": "--close"
+	},
+	"lDialogPullTitle": {
+		"id": "lDialogPullTitle"
+	},
+	"bDialogPullExecute": {
+		"id": "bDialogPullExecute",
+		"popup": "--close"
+	},
+	"bDialogPullCancel": {
+		"id": "bDialogPullCancel",
+		"popup": "--close"
+	},
+	"lDialogPullMessage": {
+		"id": "lDialogPullMessage"
+	},
+	"bDialogWriteCancel": {
+		"id": "bDialogWriteCancel",
+		"popup": "--close"
+	},
+	"lDialogWriteTitle": {
+		"id": "lDialogWriteTitle"
+	},
+	"fDialogWrite": {
+		"id": "fDialogWrite"
+	},
+	"bDialogWriteExecute": {
+		"id": "bDialogWriteExecute",
+		"popup": "--close"
+	},
+	"bDialogPcCancel": {
+		"id": "bDialogPcCancel",
+		"popup": "--close"
+	},
+	"lDialogPc": {
+		"id": "lDialogPc"
+	},
+	"fDialogPc": {
+		"id": "fDialogPc"
+	},
+	"lDialogWorking": {
+		"id": "lDialogWorking"
+	},
+	"lDialogImportTitle": {
+		"id": "lDialogImportTitle"
+	},
+	"bDialogImportExecute": {
+		"id": "bDialogImportExecute",
+		"popup": "--close"
+	},
+	"bDialogImportCancel": {
+		"id": "bDialogImportCancel",
+		"popup": "--close"
+	},
+	"lDialogImportMessage": {
+		"id": "lDialogImportMessage"
+	},
+	"lDialogWaitTitle": {
+		"id": "lDialogWaitTitle"
+	},
+	"lDialogWaitText": {
+		"id": "lDialogWaitText"
+	},
+	"fDialogWaitProgressbar": {
+		"id": "fDialogWaitProgressbar"
+	},
+	"lDialogErrorTitle": {
+		"id": "lDialogErrorTitle"
+	},
+	"lDialogErrorMessage": {
+		"id": "lDialogErrorMessage"
+	},
+	"bDialogErrorClose": {
+		"id": "bDialogErrorClose",
+		"popup": "--close"
+	},
+	"lDialogWarningTitle": {
+		"id": "lDialogWarningTitle"
+	},
+	"lDialogWarningMessage": {
+		"id": "lDialogWarningMessage"
+	},
+	"bDialogWarningClose": {
+		"id": "bDialogWarningClose",
+		"popup": "--close"
+	},
+	"fOutput": {
+		"id": "fOutput"
+	},
+	"fLoopStructure": {
+		"id": "fLoopStructure"
+	},
+	"fInput": {
+		"id": "fInput"
+	},
+	"fPatchCtl": {
+		"id": "fPatchCtl"
+	},
+	"fContents": {
+		"id": "fContents"
+	},
+	"fLibrarianSelector": {
+		"id": "fLibrarianSelector"
+	},
+	"fLibrarian": {
+		"id": "fLibrarian"
+	},
+	"bLibrarianImport": {
+		"id": "bLibrarianImport"
+	},
+	"bLibrarianExport": {
+		"id": "bLibrarianExport"
+	},
+	"fOption": {
+		"id": "fOption"
+	},
+	"ID_TEMP_CURRENT_NUM": {
+		"id": "ID_TEMP_CURRENT_NUM",
+		"popup": "dialog_pc"
+	},
+	"ID_PATCH_NAME": {
+		"id": "ID_PATCH_NAME"
+	},
+	"ID_PATCH_MASTER_BPM": {
+		"id": "ID_PATCH_MASTER_BPM",
+		"init": "120",
+		"trig": true
+	},
+	"lMIDIClockOut": {
+		"id": "lMIDIClockOut"
+	},
+	"ID_PATCH_MIDI_CLOCK_OUT": {
+		"id": "ID_PATCH_MIDI_CLOCK_OUT",
+		"init": "0",
+		"trig": true
+	},
+	"bWrite": {
+		"id": "bWrite",
+		"popup": "dialog_write"
+	},
+	"lBPM": {
+		"id": "lBPM"
+	},
+	"ID_PATCH_NAME-0": {
+		"id": "ID_PATCH_NAME-0"
+	},
+	"ID_PATCH_NAME-1": {
+		"id": "ID_PATCH_NAME-1"
+	},
+	"ID_PATCH_NAME-2": {
+		"id": "ID_PATCH_NAME-2"
+	},
+	"ID_PATCH_NAME-3": {
+		"id": "ID_PATCH_NAME-3"
+	},
+	"ID_PATCH_NAME-4": {
+		"id": "ID_PATCH_NAME-4"
+	},
+	"ID_PATCH_NAME-5": {
+		"id": "ID_PATCH_NAME-5"
+	},
+	"ID_PATCH_NAME-6": {
+		"id": "ID_PATCH_NAME-6"
+	},
+	"ID_PATCH_NAME-7": {
+		"id": "ID_PATCH_NAME-7"
+	},
+	"ID_PATCH_NAME-8": {
+		"id": "ID_PATCH_NAME-8"
+	},
+	"ID_PATCH_NAME-9": {
+		"id": "ID_PATCH_NAME-9"
+	},
+	"ID_PATCH_NAME-10": {
+		"id": "ID_PATCH_NAME-10"
+	},
+	"ID_PATCH_NAME-11": {
+		"id": "ID_PATCH_NAME-11"
+	},
+	"ID_PATCH_NAME-12": {
+		"id": "ID_PATCH_NAME-12"
+	},
+	"ID_PATCH_NAME-13": {
+		"id": "ID_PATCH_NAME-13"
+	},
+	"ID_PATCH_NAME-14": {
+		"id": "ID_PATCH_NAME-14"
+	},
+	"ID_PATCH_NAME-15": {
+		"id": "ID_PATCH_NAME-15"
+	},
+	"lCtlExpMemoryManualPatch": {
+		"id": "lCtlExpMemoryManualPatch"
+	},
+	"ID_PATCH_CTL_FUNC-0": {
+		"id": "ID_PATCH_CTL_FUNC-0",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-0": {
+		"id": "ID_PATCH_CTL_MIN-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-0": {
+		"id": "ID_PATCH_CTL_MAX-0",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-0": {
+		"id": "ID_PATCH_CTL_MOD-0",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpMemoryManualSystem": {
+		"id": "lCtlExpMemoryManualSystem"
+	},
+	"ID_SYSTEM_CTL_FUNC-0": {
+		"id": "ID_SYSTEM_CTL_FUNC-0",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-0": {
+		"id": "ID_SYSTEM_CTL_MIN-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-0": {
+		"id": "ID_SYSTEM_CTL_MAX-0",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-0": {
+		"id": "ID_SYSTEM_CTL_MOD-0",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpMutePatch": {
+		"id": "lCtlExpMutePatch"
+	},
+	"ID_PATCH_CTL_FUNC-1": {
+		"id": "ID_PATCH_CTL_FUNC-1",
+		"init": "2",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-1": {
+		"id": "ID_PATCH_CTL_MIN-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-1": {
+		"id": "ID_PATCH_CTL_MAX-1",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-1": {
+		"id": "ID_PATCH_CTL_MOD-1",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpMuteSystem": {
+		"id": "lCtlExpMuteSystem"
+	},
+	"ID_SYSTEM_CTL_FUNC-1": {
+		"id": "ID_SYSTEM_CTL_FUNC-1",
+		"init": "2",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-1": {
+		"id": "ID_SYSTEM_CTL_MIN-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-1": {
+		"id": "ID_SYSTEM_CTL_MAX-1",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-1": {
+		"id": "ID_SYSTEM_CTL_MOD-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_BANK_D": {
+		"id": "ID_PATCH_LED_BANK_D",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-2": {
+		"id": "ID_PATCH_CTL_FUNC-2",
+		"init": "3",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-2": {
+		"id": "ID_PATCH_CTL_MIN-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-2": {
+		"id": "ID_PATCH_CTL_MAX-2",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-2": {
+		"id": "ID_PATCH_CTL_MOD-2",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpBankDSystem": {
+		"id": "lCtlExpBankDSystem"
+	},
+	"ID_SYSTEM_CTL_FUNC-2": {
+		"id": "ID_SYSTEM_CTL_FUNC-2",
+		"init": "3",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-2": {
+		"id": "ID_SYSTEM_CTL_MIN-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-2": {
+		"id": "ID_SYSTEM_CTL_MAX-2",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-2": {
+		"id": "ID_SYSTEM_CTL_MOD-2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_BANK_U": {
+		"id": "ID_PATCH_LED_BANK_U",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-3": {
+		"id": "ID_PATCH_CTL_FUNC-3",
+		"init": "4",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-3": {
+		"id": "ID_PATCH_CTL_MIN-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-3": {
+		"id": "ID_PATCH_CTL_MAX-3",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-3": {
+		"id": "ID_PATCH_CTL_MOD-3",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpBankUSystem": {
+		"id": "lCtlExpBankUSystem"
+	},
+	"ID_SYSTEM_CTL_FUNC-3": {
+		"id": "ID_SYSTEM_CTL_FUNC-3",
+		"init": "4",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-3": {
+		"id": "ID_SYSTEM_CTL_MIN-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-3": {
+		"id": "ID_SYSTEM_CTL_MAX-3",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-3": {
+		"id": "ID_SYSTEM_CTL_MOD-3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM7": {
+		"id": "ID_PATCH_LED_NUM7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-10": {
+		"id": "ID_PATCH_CTL_FUNC-10",
+		"init": "13",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-10": {
+		"id": "ID_PATCH_CTL_MIN-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-10": {
+		"id": "ID_PATCH_CTL_MAX-10",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-10": {
+		"id": "ID_PATCH_CTL_MOD-10",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum7System": {
+		"id": "lCtlExpNum7System"
+	},
+	"ID_SYSTEM_CTL_FUNC-10": {
+		"id": "ID_SYSTEM_CTL_FUNC-10",
+		"init": "13",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-10": {
+		"id": "ID_SYSTEM_CTL_MIN-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-10": {
+		"id": "ID_SYSTEM_CTL_MAX-10",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-10": {
+		"id": "ID_SYSTEM_CTL_MOD-10",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM8": {
+		"id": "ID_PATCH_LED_NUM8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-11": {
+		"id": "ID_PATCH_CTL_FUNC-11",
+		"init": "14",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-11": {
+		"id": "ID_PATCH_CTL_MIN-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-11": {
+		"id": "ID_PATCH_CTL_MAX-11",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-11": {
+		"id": "ID_PATCH_CTL_MOD-11",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum8System": {
+		"id": "lCtlExpNum8System"
+	},
+	"ID_SYSTEM_CTL_FUNC-11": {
+		"id": "ID_SYSTEM_CTL_FUNC-11",
+		"init": "14",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-11": {
+		"id": "ID_SYSTEM_CTL_MIN-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-11": {
+		"id": "ID_SYSTEM_CTL_MAX-11",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-11": {
+		"id": "ID_SYSTEM_CTL_MOD-11",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM1": {
+		"id": "ID_PATCH_LED_NUM1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-4": {
+		"id": "ID_PATCH_CTL_FUNC-4",
+		"init": "7",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-4": {
+		"id": "ID_PATCH_CTL_MIN-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-4": {
+		"id": "ID_PATCH_CTL_MAX-4",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-4": {
+		"id": "ID_PATCH_CTL_MOD-4",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum1System": {
+		"id": "lCtlExpNum1System"
+	},
+	"ID_SYSTEM_CTL_FUNC-4": {
+		"id": "ID_SYSTEM_CTL_FUNC-4",
+		"init": "7",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-4": {
+		"id": "ID_SYSTEM_CTL_MIN-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-4": {
+		"id": "ID_SYSTEM_CTL_MAX-4",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-4": {
+		"id": "ID_SYSTEM_CTL_MOD-4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM2": {
+		"id": "ID_PATCH_LED_NUM2",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-5": {
+		"id": "ID_PATCH_CTL_FUNC-5",
+		"init": "8",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-5": {
+		"id": "ID_PATCH_CTL_MIN-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-5": {
+		"id": "ID_PATCH_CTL_MAX-5",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-5": {
+		"id": "ID_PATCH_CTL_MOD-5",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum2System": {
+		"id": "lCtlExpNum2System"
+	},
+	"ID_SYSTEM_CTL_FUNC-5": {
+		"id": "ID_SYSTEM_CTL_FUNC-5",
+		"init": "8",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-5": {
+		"id": "ID_SYSTEM_CTL_MIN-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-5": {
+		"id": "ID_SYSTEM_CTL_MAX-5",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-5": {
+		"id": "ID_SYSTEM_CTL_MOD-5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM3": {
+		"id": "ID_PATCH_LED_NUM3",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-6": {
+		"id": "ID_PATCH_CTL_FUNC-6",
+		"init": "9",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-6": {
+		"id": "ID_PATCH_CTL_MIN-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-6": {
+		"id": "ID_PATCH_CTL_MAX-6",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-6": {
+		"id": "ID_PATCH_CTL_MOD-6",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum3System": {
+		"id": "lCtlExpNum3System"
+	},
+	"ID_SYSTEM_CTL_FUNC-6": {
+		"id": "ID_SYSTEM_CTL_FUNC-6",
+		"init": "9",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-6": {
+		"id": "ID_SYSTEM_CTL_MIN-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-6": {
+		"id": "ID_SYSTEM_CTL_MAX-6",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-6": {
+		"id": "ID_SYSTEM_CTL_MOD-6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM4": {
+		"id": "ID_PATCH_LED_NUM4",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-7": {
+		"id": "ID_PATCH_CTL_FUNC-7",
+		"init": "10",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-7": {
+		"id": "ID_PATCH_CTL_MIN-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-7": {
+		"id": "ID_PATCH_CTL_MAX-7",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-7": {
+		"id": "ID_PATCH_CTL_MOD-7",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum4System": {
+		"id": "lCtlExpNum4System"
+	},
+	"ID_SYSTEM_CTL_FUNC-7": {
+		"id": "ID_SYSTEM_CTL_FUNC-7",
+		"init": "10",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-7": {
+		"id": "ID_SYSTEM_CTL_MIN-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-7": {
+		"id": "ID_SYSTEM_CTL_MAX-7",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-7": {
+		"id": "ID_SYSTEM_CTL_MOD-7",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM5": {
+		"id": "ID_PATCH_LED_NUM5",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-8": {
+		"id": "ID_PATCH_CTL_FUNC-8",
+		"init": "11",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-8": {
+		"id": "ID_PATCH_CTL_MIN-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-8": {
+		"id": "ID_PATCH_CTL_MAX-8",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-8": {
+		"id": "ID_PATCH_CTL_MOD-8",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum5System": {
+		"id": "lCtlExpNum5System"
+	},
+	"ID_SYSTEM_CTL_FUNC-8": {
+		"id": "ID_SYSTEM_CTL_FUNC-8",
+		"init": "11",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-8": {
+		"id": "ID_SYSTEM_CTL_MIN-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-8": {
+		"id": "ID_SYSTEM_CTL_MAX-8",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-8": {
+		"id": "ID_SYSTEM_CTL_MOD-8",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_LED_NUM6": {
+		"id": "ID_PATCH_LED_NUM6",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_FUNC-9": {
+		"id": "ID_PATCH_CTL_FUNC-9",
+		"init": "12",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-9": {
+		"id": "ID_PATCH_CTL_MIN-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-9": {
+		"id": "ID_PATCH_CTL_MAX-9",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-9": {
+		"id": "ID_PATCH_CTL_MOD-9",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpNum6System": {
+		"id": "lCtlExpNum6System"
+	},
+	"ID_SYSTEM_CTL_FUNC-9": {
+		"id": "ID_SYSTEM_CTL_FUNC-9",
+		"init": "12",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-9": {
+		"id": "ID_SYSTEM_CTL_MIN-9",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-9": {
+		"id": "ID_SYSTEM_CTL_MAX-9",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-9": {
+		"id": "ID_SYSTEM_CTL_MOD-9",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl1": {
+		"id": "lCtlExpCtl1"
+	},
+	"ID_PATCH_CTL_FUNC-12": {
+		"id": "ID_PATCH_CTL_FUNC-12",
+		"init": "15",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-12": {
+		"id": "ID_PATCH_CTL_MIN-12",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-12": {
+		"id": "ID_PATCH_CTL_MAX-12",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-12": {
+		"id": "ID_PATCH_CTL_MOD-12",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl1System": {
+		"id": "lCtlExpCtl1System"
+	},
+	"ID_SYSTEM_CTL_FUNC-12": {
+		"id": "ID_SYSTEM_CTL_FUNC-12",
+		"init": "15",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-12": {
+		"id": "ID_SYSTEM_CTL_MIN-12",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-12": {
+		"id": "ID_SYSTEM_CTL_MAX-12",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-12": {
+		"id": "ID_SYSTEM_CTL_MOD-12",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl2": {
+		"id": "lCtlExpCtl2"
+	},
+	"ID_PATCH_CTL_FUNC-13": {
+		"id": "ID_PATCH_CTL_FUNC-13",
+		"init": "16",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-13": {
+		"id": "ID_PATCH_CTL_MIN-13",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-13": {
+		"id": "ID_PATCH_CTL_MAX-13",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-13": {
+		"id": "ID_PATCH_CTL_MOD-13",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl2System": {
+		"id": "lCtlExpCtl2System"
+	},
+	"ID_SYSTEM_CTL_FUNC-13": {
+		"id": "ID_SYSTEM_CTL_FUNC-13",
+		"init": "16",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-13": {
+		"id": "ID_SYSTEM_CTL_MIN-13",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-13": {
+		"id": "ID_SYSTEM_CTL_MAX-13",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-13": {
+		"id": "ID_SYSTEM_CTL_MOD-13",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl3": {
+		"id": "lCtlExpCtl3"
+	},
+	"ID_PATCH_CTL_FUNC-14": {
+		"id": "ID_PATCH_CTL_FUNC-14",
+		"init": "17",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-14": {
+		"id": "ID_PATCH_CTL_MIN-14",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-14": {
+		"id": "ID_PATCH_CTL_MAX-14",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-14": {
+		"id": "ID_PATCH_CTL_MOD-14",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl3System": {
+		"id": "lCtlExpCtl3System"
+	},
+	"ID_SYSTEM_CTL_FUNC-14": {
+		"id": "ID_SYSTEM_CTL_FUNC-14",
+		"init": "17",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-14": {
+		"id": "ID_SYSTEM_CTL_MIN-14",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-14": {
+		"id": "ID_SYSTEM_CTL_MAX-14",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-14": {
+		"id": "ID_SYSTEM_CTL_MOD-14",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl4": {
+		"id": "lCtlExpCtl4"
+	},
+	"ID_PATCH_CTL_FUNC-15": {
+		"id": "ID_PATCH_CTL_FUNC-15",
+		"init": "18",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MIN-15": {
+		"id": "ID_PATCH_CTL_MIN-15",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MAX-15": {
+		"id": "ID_PATCH_CTL_MAX-15",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_CTL_MOD-15": {
+		"id": "ID_PATCH_CTL_MOD-15",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpCtl4System": {
+		"id": "lCtlExpCtl4System"
+	},
+	"ID_SYSTEM_CTL_FUNC-15": {
+		"id": "ID_SYSTEM_CTL_FUNC-15",
+		"init": "18",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MIN-15": {
+		"id": "ID_SYSTEM_CTL_MIN-15",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MAX-15": {
+		"id": "ID_SYSTEM_CTL_MAX-15",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_CTL_MOD-15": {
+		"id": "ID_SYSTEM_CTL_MOD-15",
+		"init": "0",
+		"trig": true
+	},
+	"lCtlExpExp1": {
+		"id": "lCtlExpExp1"
+	},
+	"ID_PATCH_EXP_FUNC-0": {
+		"id": "ID_PATCH_EXP_FUNC-0",
+		"init": "1",
+		"trig": true
+	},
+	"ID_PATCH_EXP_MIN-0": {
+		"id": "ID_PATCH_EXP_MIN-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_EXP_MAX-0": {
+		"id": "ID_PATCH_EXP_MAX-0",
+		"init": "127",
+		"trig": true
+	},
+	"lCtlExpExp1System": {
+		"id": "lCtlExpExp1System"
+	},
+	"ID_SYSTEM_EXP_FUNC-0": {
+		"id": "ID_SYSTEM_EXP_FUNC-0",
+		"init": "1",
+		"trig": true
+	},
+	"ID_SYSTEM_EXP_MIN-0": {
+		"id": "ID_SYSTEM_EXP_MIN-0",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_EXP_MAX-0": {
+		"id": "ID_SYSTEM_EXP_MAX-0",
+		"init": "127",
+		"trig": true
+	},
+	"lCtlExpExp2": {
+		"id": "lCtlExpExp2"
+	},
+	"ID_PATCH_EXP_FUNC-1": {
+		"id": "ID_PATCH_EXP_FUNC-1",
+		"init": "2",
+		"trig": true
+	},
+	"ID_PATCH_EXP_MIN-1": {
+		"id": "ID_PATCH_EXP_MIN-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_PATCH_EXP_MAX-1": {
+		"id": "ID_PATCH_EXP_MAX-1",
+		"init": "127",
+		"trig": true
+	},
+	"lCtlExpExp2System": {
+		"id": "lCtlExpExp2System"
+	},
+	"ID_SYSTEM_EXP_FUNC-1": {
+		"id": "ID_SYSTEM_EXP_FUNC-1",
+		"init": "2",
+		"trig": true
+	},
+	"ID_SYSTEM_EXP_MIN-1": {
+		"id": "ID_SYSTEM_EXP_MIN-1",
+		"init": "0",
+		"trig": true
+	},
+	"ID_SYSTEM_EXP_MAX-1": {
+		"id": "ID_SYSTEM_EXP_MAX-1",
+		"init": "127",
+		"trig": true
+	}
+}

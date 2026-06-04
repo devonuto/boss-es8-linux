@@ -1,0 +1,2 @@
+# BOSS ES-8 Switcher hardware USB MIDI subsystem access rule
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="0582", ATTRS{idProduct}=="01e5", MODE="0666", GROUP="plugdev"

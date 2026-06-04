@@ -1,0 +1,46 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-check-box-style">
+    <input type="checkbox" id="a-0" />
+    <label for="a-0">check</label>
+  </div>
+*/
+
+.item-check-box-style {
+  position: absolute;
+  clear: both;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+
+  color: #444;
+}
+.item-check-box-style input {
+  display: none;
+}
+.item-check-box-style label {
+  display: inline block;
+  position: relative;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.item-check-box-style label:before {
+  position: absolute;
+  content: "";
+  cursor: pointer;
+  margin-top: -6px;
+  width: 8px; height: 8px;
+  top: 50%;
+  left: -20px;
+  border: 2px solid #888;
+}
+.item-check-box-style label:hover:before {
+  border-color: #888;
+}
+.item-check-box-style label:hover:before {
+  border-color: #88e;
+}
+.item-check-box-style input[type="checkbox"]:checked + label:before {
+  background-color: #e88;
+}

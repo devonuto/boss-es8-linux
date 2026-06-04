@@ -1,0 +1,47 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-radio-button-style">
+    <input name="a" id="a-0" value="0" type="radio">
+    <label for="a-0">text 1</label>
+    <input name="a" id="a-1" value="1" type="radio">
+    <label for="a-1">text 2</label>
+    ...
+  </div>
+*/
+
+.item-radio-button-style {
+  position: absolute;
+  clear: both;
+  margin: 0;
+  padding: 0;
+
+  color: #444;
+}
+.item-radio-button-style input {
+  display: none;
+}
+.item-radio-button-style label {
+  display: block;
+  position: relative;
+  margin-left: 20px;
+  cursor: pointer;
+  line-height: 1.5em;
+}
+.item-radio-button-style label:before {
+  position: absolute;
+  content: "";
+  cursor: pointer;
+  margin-top: -5px;
+  width: 8px; height: 8px;
+  top: 50%;
+  left: -20px;
+  border: 2px solid #888;
+  border-radius: 50%;
+}
+.item-radio-button-style label:hover:before {
+  border-color: #88e;
+}
+.item-radio-button-style input[type="radio"]:checked + label:before {
+  background-color: #e88;
+}

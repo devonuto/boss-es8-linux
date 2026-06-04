@@ -1,0 +1,75 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font: 10pt Helvetica,Arial,sans-serif;
+  width: 100%;
+  height: 100%;
+  margin: 0; padding: 0;
+}
+
+#editor_view {
+  position: absolute;
+  overflow: auto;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  padding: 0;
+}
+
+.export {
+  position: absolute;
+  overflow: auto;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+
+.export iframe {
+  position: absolute;
+  width: 100%; height: 100%;
+  left: 0; right: 0; top: 0; bottom: 0;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+#container {
+  display: none;
+}
+
+#loading {
+  background-color: #333333;
+  position: absolute;
+  width: 100%; height: 100%;
+  left: 0; right: 0; top: 0; bottom: 0;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  display: none;
+}
+
+#loading_contents {
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  margin: auto;
+  width: 200px;
+  height: 120px;
+  color: #ffffff;
+}
+
+#loading_title {
+  left: 0; right: 0; top: 0; bottom: 0;
+  margin: auto;
+  color: #ffffff;
+}
+
+#loading_icon {
+  left: 0; right: 0; top: 0; bottom: 0;
+  margin: auto;
+  width: 100px;
+}

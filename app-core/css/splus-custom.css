@@ -1,0 +1,333 @@
+.context-menu-link {
+  display: block;
+  padding: 4px 12px;
+  color: #0066aa;
+  text-decoration: none;
+}
+
+.context-menu-link:hover {
+  color: #fff;
+  background-color: #0066aa;
+}
+.context-menu-tems {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.context-menu-tem {
+  display: block;
+  margin-bottom: 4px;
+}
+#context-menu {
+  display: none;
+  position: absolute;
+  z-index: 10;
+  padding: 12px 0;
+  width: 240px;
+  background-color: #fff;
+  border: solid 1px #dfdfdf;
+  box-shadow: 1px 1px 2px #cfcfcf;
+}
+#librarian_table{
+    width: 858px;
+    min-width: 858px;
+    padding: 2px 2px;
+    margin: 0;
+    clear: both;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 8.5pt;
+    color: #fff;
+    font-weight: normal;
+    cursor: default;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#librarian_table thead, #librarian_table tr td:first-child{
+    text-align: center;
+    word-break: break-all;
+    font-size: 0.9em;
+}
+
+#librarian_table tr td{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px #eee solid;
+    
+    word-break: break-all;
+    cursor: hand;
+}
+#librarian tr td:hover {
+  background-color: #88e;
+}
+
+.selected{
+    background-color: rgb(91, 132, 149) !important;
+}
+.selected-hover{
+    background-color: rgb(91, 132, 149) !important;
+}
+.disable{
+    color: #fff !important;
+    background-color: #ccc !important;
+}
+.disable:hover{
+    cursor: default;
+}
+#LIBRARIAN_BASE{
+    overflow-x: hidden;
+    padding: 4px 4px;
+}
+
+.editVal{
+    margin: 0px;
+    min-width: 99px;
+    width: 99px;
+    font-size: 8.5pt;
+    -webkit-user-select: text;
+}
+
+.editValTop {
+    margin: 0px;
+    min-width: 220px;
+    width: 220px;
+    font-size: 10pt;
+    -webkit-user-select: text;
+}
+
+/*CSS  for rooting*/
+
+.container{
+    width: 100%;
+    position: relative;
+    height: 140px;
+    margin-top: 20px;
+}
+.cover, .border, .cover-copy{
+    height: 60px;
+    width: 26px;
+    border: 3px #5B8495 solid;
+    border-radius: 5px;
+    background-color: #fff;
+    float: right;
+    margin: 0 10px;
+    position: relative;
+    z-index: 0;
+    /*display: inline-block;*/
+}
+.cover:hover, .cover-copy:hover{
+    cursor: pointer;
+}
+.text{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 10pt;
+    padding: 0;
+}
+.circle{
+    min-height: 10px;
+    min-width: 10px;
+    width: 14px;
+    height: 14px;
+    background-color: #e88;
+    border: 2px #888 solid;
+    margin: auto;
+    border-radius: 13px;
+    display: block;
+    margin-top: -2px;
+}
+.rectangle{
+    width: 14px;
+    height: 12px;
+    background-color: #88e;
+    border: 2px #5B8495 solid;
+    margin: auto;
+    margin-top: 6px;
+    display: block;
+    border-radius: 2px;
+}
+#line{
+    height: 4px;
+    width: 513px;
+    background-color: #cfcfcf;
+    top: 26px;
+    position: absolute;
+    z-index: 0;
+}
+.line-w, .line-ws {
+    height: 4px;
+    background-color: #cfcfcf;
+    position: absolute;
+    top: 70px;
+    z-index: 4
+}
+.line-w-mix{
+    height: 4px;
+    background-color: #cfcfcf;
+    position: absolute;
+    top: 80px;
+    z-index: 4
+}
+.line-wmin{
+    height: 4px;
+    background-color: #cfcfcf;
+    position: absolute;
+    top: 14px;
+    width: 10px;
+}
+.line-w-over{
+    height: 4px;
+    background-color: #181818;
+    position: absolute;
+    top: 0px;
+    width: 10px;
+}
+.line-h{
+    position: absolute;
+    width: 4px;
+    height: 70px;
+    background-color: #cfcfcf;
+    z-index: 3;
+    display: block;
+}
+.line-hmin{
+    position: absolute;
+    width: 4px;
+    height: 60px;
+    background-color: #cfcfcf;
+    z-index: 3;
+    top: 14px;
+    display: block;
+}
+.line-hshort{
+    position: absolute;
+    width: 4px;
+    height: 14px;
+    background-color: #cfcfcf;
+    z-index: 3;
+    top: 4px;
+    display: block;
+}
+#list-node{
+    position: relative;
+}
+.mixer_id {
+    top: 112px;
+    display: block;
+    position: absolute;
+    opacity: 1;
+    color: #fff;
+}
+.node, .delete_separate, .delete_mix, .node-none{
+    height: 12px;
+    width: 12px;
+    background-color: #303030;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    z-index: 0;
+    opacity: 1;
+    top: 22px;
+    border: 1px #888 solid;
+}
+.node:hover, .delete_separate:hover, .delete_mix:hover, .node-none:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+#loop {
+    width: 482px;
+    height: 80px;
+    z-index: 0;
+    position: absolute;
+}
+.ui-hover{
+    background-color: red;
+    height: 60px;
+    width: 6px;
+    display: block;
+    border: 0px;
+    border-radius: 0px;
+    position: absolute;
+    top: -25px;
+    z-index: 10;
+    /*display: none;*/
+}
+
+.area-mouse-over{
+    height: 60px;
+    width: 46px;
+    display: block;
+    border: 0px;
+    border-radius: 0px;
+    position: absolute;
+    top: -25px;
+    z-index: 11;
+    opacity: 0;
+/*    background-color: buttonface;
+    border-left: 1px solid #fff;*/
+}
+
+#select-menu {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    padding: 12px 0;
+    width: 240px;
+    background-color: #fff;
+    border: solid 1px #dfdfdf;
+    box-shadow: 1px 1px 2px #cfcfcf;
+}
+.menu-item{
+    padding: 9px 45px;
+    border-bottom: 1px #0066aa solid;
+}
+.menu-item-disable{
+    padding: 9px 45px;
+    border-bottom: 1px #0066aa solid;
+    background-color: #cfcfcf !important;
+    color: #fff !important;
+}
+.menu-item > span, .menu-item-disable > span{
+    display: inline-block;
+}
+.menu-item img, .menu-item-disable img{
+    height: 30px;
+    width: 40px;
+    display: inline-block;
+    float: right;
+    margin-top: -7px;
+}
+.menu-item:hover{
+    cursor: pointer;
+    color: #fff;
+    background-color: #0066aa;
+}
+.menu-item-disable:hover{
+    cursor: default;
+}
+#Loop_Structure{
+    overflow-x: hidden;
+}
+.line-hover{
+    background-color: red;
+}
+
+.librarian-draggable-contents {
+    position: relative;
+    width: 99px;
+    height: 36px;
+    padding: 0;
+    margin: 0;
+    border: 0px;
+}
+
+.librarian-draggable-content_one {
+    width: 100%;
+    height: 100%;
+    padding: 1px;
+    margin: 1px;
+    position: absolute;
+    border: solid 1px #dfdfdf;
+    background-color: rgb(91, 132, 149);
+}

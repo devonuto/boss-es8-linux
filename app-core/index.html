@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<script src="js/config/product_setting.js"></script>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="index.css" />
+</head>
+<body>
+
+<div id="loading">
+	<div id="loading_contents">
+		<div id="loading_title"></div>
+		<div id="loading_icon">
+			<span></span>
+		</div>
+	</div>
+</div>
+
+<div id="container">
+	<div id="editor_view">
+		<div class="export">
+			<iframe id="editor_body" src="export.html"></iframe>
+		</div>
+	</div>
+</div>
+
+<script src="js/lib/jquery.js"></script>
+<script  type="text/javascript">
+	document.title = ProductSetting.name + ' Ver ' + ProductSetting.versionNumber; 
+	$('#loading_title').append('<p align="center">' + ProductSetting.name + '</p>');
+	setTimeout(function(){
+		$('#loading_icon span').append('<img src="images/loading.gif?' + (new Date).getTime() + '" align=center></img>');
+		$('#loading').css('display', 'block');
+	}, 0);
+	$(function(){
+		window.onload = function () {
+			$('#loading').css('display', 'none');
+			$('#container').css('display', 'block');
+		}
+	});
+</script>
+</body>
+</html>

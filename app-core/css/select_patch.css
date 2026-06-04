@@ -1,0 +1,37 @@
+#pc_select_table{
+    width: 100%;
+    padding: 2px 2px;
+    margin: 0 auto;
+    clear: both;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 8.5pt;
+    color: #fff;
+    font-weight: normal;
+    cursor: default;
+}
+#pc_select_table thead, #pc_select_table tr td:first-child{
+    text-align: center;
+    word-break: break-all;
+    font-size: 0.9em;
+}
+
+#pc_select_table tr td{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 1px #eee solid;
+    
+    word-break: break-all;
+    cursor: hand;
+}
+#pc_select_table tr td:not(:first-child):hover {
+  background-color: #88e;
+}
+
+#fDialogPc, #fDialogWrite {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 429px;
+    padding: 4px 4px;
+    position:absolute;
+}

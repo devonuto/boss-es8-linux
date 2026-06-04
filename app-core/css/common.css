@@ -1,0 +1,53 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+*/
+
+* {
+          user-select: none;
+     -moz-user-select: none;
+  -webkit-user-select: none;
+
+          box-sizing: border-box;
+     -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+body {
+  font: 10pt Helvetica,Arial,sans-serif;
+  font-family:Meiryo, メイリオ, 'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', sans-serif;
+  /*font-size: 80%;*/
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#layout-wrapper {
+  position: relative;
+  clear: both;
+  width: 100%;
+  height:100%;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-webkit-keyframes fadeIn {
+      0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* webkit scroll bar design */
+::-webkit-scrollbar {
+  width: 16px;
+  background-color: black;
+}
+::-webkit-scrollbar-track {
+/*  border-radius: 10px; */
+  background-color: #ccc;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #aaa;
+}

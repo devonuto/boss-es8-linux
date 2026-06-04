@@ -1,0 +1,52 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="license_information">
+      <p>text</p>
+  </div>
+*/
+
+.license_information {
+  position: absolute;
+  clear: both;
+/*  display: table;*/
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+
+  text-align: left;
+
+  color: #444;
+/*  background-color: #eee; */
+  border: 1px solid #888;
+  border-radius: 2px;
+
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-size: 8pt;
+}
+.license_information p {
+  vertical-align: middle;
+  padding: 1px;
+  margin: 0;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.license_information a {
+  vertical-align: middle;
+  padding: 1px;
+  margin: 0;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.license_information_separator {
+      margin: 0;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+      padding-bottom: 1em;
+}

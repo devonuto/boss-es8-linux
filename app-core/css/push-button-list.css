@@ -1,0 +1,41 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-push-button-style-list">
+      <p>text</p>
+  </div>
+*/
+
+.item-push-button-style-list {
+  position: absolute;
+  clear: both;
+  display: table;
+  margin: 0;
+  padding: 0;
+
+  text-align: center;
+  cursor: pointer;
+
+  color: #fff;
+  font-size: 8pt;
+/*  background-color: #eee; */
+  background-color: #181818 ;
+  border: 1px solid #fff;
+  /*border-radius: 8px;*/
+  border-radius: 3px;
+}
+.item-push-button-style-list p {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 4px;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.item-push-button-style-list:hover {
+  background-color: #88e;
+}
+.item-push-button-style-list:active {
+  background-color: #e88;
+}
+

@@ -1,0 +1,57 @@
+/*
+  Copyright 2016 Roland Corporation. All rights reserved.
+
+  <div id="a" class="item-select-panel-style" style="background-image:url(image)">
+    <div id="a-panel" class="item-select-panel-style-popup" style="display:none;">
+      <img src="image1"></img>
+      <img src="image2"></img>
+      ...
+    </div>
+  </div>
+*/
+
+.item-select-panel-style {
+  position: absolute;
+  clear: both;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+
+  border: 1px solid #888;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto;
+}
+.item-select-panel-stylel:hover {
+  background-color: #88e;
+}
+
+.item-select-panel-style-popup {
+  position: fixed;
+  overflow: auto;
+  outline: none;
+  -webkit-overflow-scrolling: touch;
+
+  margin: 0;
+  padding: 0;
+
+  background-color: #eee;
+  border: 2px solid #222;
+  /*border-radius: 6px;*/
+  border-radius: 4px;
+
+          animation: fadeIn 0.3s;
+  -webkit-animation: fadeIn 0.3s;
+}
+.item-select-panel-style-popup img {
+  display: inline-block;
+  width: 64px;
+  margin: 8px;
+}
+.item-select-panel-style-popup img:hover {
+  background-color: #88e;
+}
+.item-select-panel-style-popup img[checked] {
+  background-color: #e88;
+}
