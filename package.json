@@ -19,7 +19,12 @@
     "linux": {
       "target": ["AppImage", "deb"],
       "category": "AudioVideo",
-      "maintainer": "Community Linux Maintainers <maintainers@example.invalid>"
+      "maintainer": "Community Linux Maintainers <maintainers@example.invalid>",
+      "desktop": {
+        "entry": {
+          "StartupWMClass": "boss-es8-linux"
+        }
+      }
     }
   },
   "devDependencies": {

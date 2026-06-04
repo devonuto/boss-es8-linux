@@ -1,6 +1,9 @@
 const { app, BrowserWindow, session } = require('electron');
 const path = require('path');
 
+app.setDesktopName('boss-es8-linux.desktop');
+app.setName('boss-es8-linux');
+
 process.on('unhandledRejection', (reason) => {
   console.log('Intercepted unhandled device rejection:', reason);
 });
