@@ -8,6 +8,15 @@
 
 	var _ = function() {};
 
+	function parseJSONSafe(raw, fallback) {
+		if (typeof raw !== 'string' || raw.trim() === '') return fallback;
+		try {
+			return JSON.parse(raw);
+		} catch (e) {
+			return fallback;
+		}
+	}
+
 	var native = {
 
 		app: {
@@ -26,12 +35,12 @@
 
 		midi: {
 			input: {
-				endpoints: function() { return JSON.parse(_('$$midi_inendpoints')); },
+				endpoints: function() { return parseJSONSafe(_('$$midi_inendpoints'), []); },
 				connect: function(ep) { _('$$midi_inconnect', (ep ? JSON.stringify(ep) : undefined)); },
 				disconnect: function(ep) { _('$$midi_indisconnect', (ep ? JSON.stringify(ep) : undefined)); }
 			},
 			output: {
-				endpoints: function() { return JSON.parse(_('$$midi_outendpoints')); },
+				endpoints: function() { return parseJSONSafe(_('$$midi_outendpoints'), []); },
 				connect: function(ep) { _('$$midi_outconnect', (ep ? JSON.stringify(ep) : undefined)); },
 				disconnect: function(ep) { _('$$midi_outdisconnect', (ep ? JSON.stringify(ep) : undefined)); }
 			},
@@ -48,12 +57,12 @@
 
 		thru: {
 			input: {
-				endpoints: function() { return JSON.parse(_('$$thru_inendpoints')); },
+				endpoints: function() { return parseJSONSafe(_('$$thru_inendpoints'), []); },
 				connect: function(ep) { _('$$thru_inconnect', (ep ? JSON.stringify(ep) : undefined)); },
 				disconnect: function(ep) { _('$$thru_indisconnect', (ep ? JSON.stringify(ep) : undefined)); }
 			},
 			output: {
-				endpoints: function() { return JSON.parse(_('$$thru_outendpoints')); },
+				endpoints: function() { return parseJSONSafe(_('$$thru_outendpoints'), []); },
 				connect: function(ep) { _('$$thru_outconnect', (ep ? JSON.stringify(ep) : undefined)); },
 				disconnect: function(ep) { _('$$thru_outdisconnect', (ep ? JSON.stringify(ep) : undefined)); }
 			},
@@ -140,9 +149,9 @@
 		fs: {
 			separator: function() { return _('$$fs_separator'); },
 			path: function(where) { return _('$$fs_path', where); },
-			volumes: function() { return JSON.parse(_('$$fs_volumes')); },
-			contents: function(path) { return JSON.parse(_('$$fs_contents', path)); },
-			stat: function(path) { return JSON.parse(_('$$fs_stat', path)); },
+			volumes: function() { return parseJSONSafe(_('$$fs_volumes'), []); },
+			contents: function(path) { return parseJSONSafe(_('$$fs_contents', path), []); },
+			stat: function(path) { return parseJSONSafe(_('$$fs_stat', path), null); },
 			exec: function(file) { _('$$fs_exec', file); },
 			mkdir: function(path) { _('$$fs_mkdir', path); },
 			unlink: function(path) { _('$$fs_unlink', path); },

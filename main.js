@@ -24,7 +24,8 @@ function createWindow () {
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
-      webSecurity: false
+      webSecurity: false,
+      sandbox: false
     }
   });
 
@@ -35,6 +36,7 @@ function createWindow () {
   win.setMenu(null);
 }
 
+app.disableHardwareAcceleration();
 app.commandLine.appendSwitch('disable-gpu-sandbox');
 app.commandLine.appendSwitch('no-sandbox');
 app.commandLine.appendSwitch('disable-dev-shm-usage');

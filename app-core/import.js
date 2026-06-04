@@ -9,10 +9,13 @@ try  {
 		var xhr = new XMLHttpRequest();
 		xhr.open('GET', url, false);
 		xhr.send(null);
-		return xhr.responseText;
+		return xhr.responseText || '';
 	}
 	var _ITEM_DATA  = _load('export/item.json');
 	var _LAYOUT_DIV = _load('export/layout.div');
+	if (!_ITEM_DATA) {
+		throw new Error('Failed to load export/item.json');
+	}
 	_items = JSON.parse(_ITEM_DATA);
 	_ITEM_DATA = null;
 } catch (e) { alert(e); }
